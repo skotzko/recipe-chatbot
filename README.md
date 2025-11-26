@@ -5,6 +5,7 @@ This repository contains a complete AI evaluations course built around a Recipe 
 ## Quick Start
 
 1. **Clone & Setup**
+
    ```bash
    git clone https://github.com/ai-evals-course/recipe-chatbot.git
    cd recipe-chatbot
@@ -12,14 +13,14 @@ This repository contains a complete AI evaluations course built around a Recipe 
    source .venv/bin/activate  # On Windows: .venv\Scripts\activate
    pip install -r requirements.txt
    ```
+1. **Configure Environment**
 
-2. **Configure Environment**
    ```bash
    cp env.example .env
    # Edit .env to add your model and API keys
    ```
+1. **Run the Chatbot**
 
-3. **Run the Chatbot**
    ```bash
    uvicorn backend.main:app --reload
    # Open http://127.0.0.1:8000
@@ -30,33 +31,34 @@ This repository contains a complete AI evaluations course built around a Recipe 
 ### Homework Progression
 
 1. **HW1: Basic Prompt Engineering** (`homeworks/hw1/`)
+
    - Write system prompts and expand test queries
    - Walkthrough: See HW2 walkthrough for HW1 content
+1. **HW2: Error Analysis & Failure Taxonomy** (`homeworks/hw2/`)
 
-2. **HW2: Error Analysis & Failure Taxonomy** (`homeworks/hw2/`)
    - Systematic error analysis and failure mode identification
    - **Interactive Walkthrough**:
-      - Code: `homeworks/hw2/hw2_solution_walkthrough.ipynb`
-      - [video 1](https://youtu.be/h9oAAAYnGx4?si=fWxN3NtpSbdD55cW): walkthrough of code
-      - [video 2](https://youtu.be/AKg27L4E0M8) : open & axial coding walkthrough
+       - Code: `homeworks/hw2/hw2_solution_walkthrough.ipynb`
+       - [video 1](https://youtu.be/h9oAAAYnGx4?si=fWxN3NtpSbdD55cW): walkthrough of code
+       - [video 2](https://youtu.be/AKg27L4E0M8) : open & axial coding walkthrough
+1. **HW3: LLM-as-Judge Evaluation** (`homeworks/hw3/`)
 
-3. **HW3: LLM-as-Judge Evaluation** (`homeworks/hw3/`)
    - Automated evaluation using the `judgy` library
    - **Interactive Walkthrough**:
-      - Code: `homeworks/hw3/hw3_walkthrough.ipynb`
-      - [video](https://youtu.be/1d5aNfslwHg): walkthrough of solution
+       - Code: `homeworks/hw3/hw3_walkthrough.ipynb`
+       - [video](https://youtu.be/1d5aNfslwHg): walkthrough of solution
+1. **HW4: RAG/Retrieval Evaluation** (`homeworks/hw4/`)
 
-4. **HW4: RAG/Retrieval Evaluation** (`homeworks/hw4/`)
    - BM25 retrieval system with synthetic query generation
-   - **Interactive Walkthroughs**: 
-     - `homeworks/hw4/hw4_walkthrough.py` (Marimo)
-     - [video](https://youtu.be/GMShL5iC8aY): walkthrough of solution
+   - **Interactive Walkthroughs**:
+       - `homeworks/hw4/hw4_walkthrough.py` (Marimo)
+       - [video](https://youtu.be/GMShL5iC8aY): walkthrough of solution
+1. **HW5: Agent Failure Analysis** (`homeworks/hw5/`)
 
-5. **HW5: Agent Failure Analysis** (`homeworks/hw5/`)
    - Analyze conversation traces and failure patterns
    - **Interactive Walkthroughs**:
-      - `homeworks/hw5/hw5_walkthrough.py` (Marimo)
-      - [video](https://youtu.be/z1oISsDUKLA) 
+       - `homeworks/hw5/hw5_walkthrough.py` (Marimo)
+       - [video](https://youtu.be/z1oISsDUKLA)
 
 ### Key Features
 
@@ -90,6 +92,7 @@ recipe-chatbot/
 Each homework includes complete pipelines. For example:
 
 **HW3 Pipeline:**
+
 ```bash
 cd homeworks/hw3
 python scripts/generate_traces.py
@@ -99,6 +102,7 @@ python scripts/evaluate_judge.py
 ```
 
 **HW4 Pipeline:**
+
 ```bash
 cd homeworks/hw4
 python scripts/process_recipes.py
@@ -116,6 +120,7 @@ python scripts/evaluate_retrieval.py
 ## Environment Variables
 
 Configure your `.env` file with:
+
 - `MODEL_NAME`: LLM model for chatbot (e.g., `openai/gpt-5-chat-latest`, `anthropic/claude-3-sonnet-20240229`)
 - `MODEL_NAME_JUDGE`: LLM model for judge, which can be smaller than the chatbot model (e.g., `openai/gpt-5-mini`, `anthropic/claude-3-haiku-20240307`)
 - API keys: `OPENAI_API_KEY`, `ANTHROPIC_API_KEY`, etc.
@@ -125,6 +130,7 @@ See [LiteLLM docs](https://docs.litellm.ai/docs/providers) for supported provide
 ## Course Philosophy
 
 This course emphasizes:
+
 - **Practical experience** over theory
 - **Systematic evaluation** over "vibes"
 - **Progressive complexity** - each homework builds on previous work
