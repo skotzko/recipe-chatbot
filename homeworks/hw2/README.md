@@ -314,8 +314,6 @@ Need to make dairy free lunch for 8 people. What would you suggest?
 
 Help me with a main dish for 3 people that I can get done in 45 minutes max
 
-
-
 ## Part 2: Initial Error Analysis (Ref Sec 3.2, 3.3, 3.4 of relevant course material)
 
 1. **Run Bot on Synthetic Queries:**
@@ -342,6 +340,34 @@ Help me with a main dish for 3 people that I can get done in 45 minutes max
        - `Full_Bot_Trace_Summary` (a summary of the bot's full response and behavior)
        - `Open_Code_Notes` (your notes and observations from the open coding process)
        - A column for each of your 3-5 defined `Failure_Mode_Title`s (use 0 or 1 to indicate the presence or absence of that failure mode in the trace).
+
+#### STEP 1: GET TRACES
+
+> Execute your Recipe Bot using the synthetic queries generated in Part 1.
+
+Q: am I missing some automated tool for this? or is this manually run them?
+
+How many of these to do, just 5-7? or like 100+ per the general guideline?
+
+I ran them in bulk using the bulk script and got output which is in `/Users/andrew/projects/recipe-chatbot/results/results_20251128_190135.csv`.
+
+Q: how do I record the full traces? → I see it happens automatically (saved in `/annotation/traces`) when I manually enter a query, but not when I run the bulk script. I could update that.
+
+TODO: update bulk script to record traces like happens manually / automatically.
+
+
+
+> Record the full interaction traces for each query.
+
+Q: am I missing some automated tool for this? or is this manually run them?
+
+#### STEP 2: OPEN CODING
+
+#### STEP 3: AXIAL CODING + TAXONOMY DEFINITION
+
+#### STEP 4: ANALYSIS SPREADSHEET
+
+See `hw2_error_analysis.csv`.
 
 ---
 

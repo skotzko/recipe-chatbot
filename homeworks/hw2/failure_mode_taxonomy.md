@@ -1,4 +1,3 @@
-<!-- for HW 2: Template for defining failure mode taxonomy -->
 
 # Failure Mode Taxonomy
 
