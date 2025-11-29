@@ -24,7 +24,7 @@ from rich.panel import Panel
 from rich.text import Text
 from rich.markdown import Markdown
 
-from backend.utils import get_agent_response, SYSTEM_PROMPT
+from backend.utils import get_agent_response, SYSTEM_PROMPT, save_trace
 
 # -----------------------------------------------------------------------------
 # Configuration helpers
@@ -49,6 +49,10 @@ def process_query_sync(query_id: str, query: str) -> Tuple[str, str, str]:
     try:
         # get_agent_response now returns the full history
         updated_history = get_agent_response(initial_messages)
+
+        # Save trace
+        save_trace(initial_messages, updated_history)
+
         # Extract the last assistant message for the result
         assistant_reply = ""
         if updated_history and updated_history[-1]["role"] == "assistant":

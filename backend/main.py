@@ -4,15 +4,13 @@ from __future__ import annotations
 
 from pathlib import Path
 from typing import Final, List, Dict
-import datetime
-import json
 
 from fastapi import FastAPI, HTTPException, status
 from fastapi.responses import HTMLResponse
 from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel, Field
 
-from backend.utils import get_agent_response  # noqa: WPS433 import from parent
+from backend.utils import get_agent_response, save_trace  # noqa: WPS433 import from parent
 
 # -----------------------------------------------------------------------------
 # Application setup
@@ -72,16 +70,8 @@ async def chat_endpoint(payload: ChatRequest) -> ChatResponse:  # noqa: WPS430
 
     response = ChatResponse(messages=[ChatMessage(**msg) for msg in updated_messages_dicts])
 
-    # Save trace (request and response) in one place
-    traces_dir = Path(__file__).parent.parent / "annotation" / "traces"
-    traces_dir.mkdir(parents=True, exist_ok=True)
-    ts = datetime.datetime.now().strftime("%Y%m%d_%H%M%S_%f")
-    trace_path = traces_dir / f"trace_{ts}.json"
-    with open(trace_path, "w") as f:
-        json.dump({
-            "request": payload.model_dump(),
-            "response": response.model_dump()
-        }, f)
+    # Save trace (request and response)
+    save_trace(request_messages, updated_messages_dicts)
 
     return response
 
