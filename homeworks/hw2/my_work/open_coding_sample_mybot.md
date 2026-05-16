@@ -65,17 +65,15 @@ A crunchy, flavorful vegan snack that's easy to make and perfect for sharing. Th
 - [ ] Black pepper (optional)
 ```
 
-**Point of first failure:**
+**Observations:**
 
-_(earliest thing that goes wrong — not every symptom; leave blank if none)_
+_(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
-**Notes:**
-
-_(free-form observations, your words, uncategorized)_
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
+
 
 ---
 
@@ -135,17 +133,15 @@ A rich, creamy, and healthy vegan dessert that comes together in just about 30 m
 Enjoy your quick and delicious vegan dessert! Let me know if you want another type or something different.
 ```
 
-**Point of first failure:**
+**Observations:**
 
-_(earliest thing that goes wrong — not every symptom; leave blank if none)_
+_(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
-**Notes:**
-
-_(free-form observations, your words, uncategorized)_
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
+
 
 ---
 
@@ -209,17 +205,15 @@ A simple, flavorful, and low-carb way to prepare juicy chicken thighs with a per
 Let me know if you want a side suggestion to go with this, also low carb!
 ```
 
-**Point of first failure:**
+**Observations:**
 
-_(earliest thing that goes wrong — not every symptom; leave blank if none)_
+_(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
-**Notes:**
-
-_(free-form observations, your words, uncategorized)_
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
+
 
 ---
 
@@ -286,17 +280,15 @@ A simple and delightful breakfast appetizer that's quick to make and perfect for
 Enjoy your tasty and easy breakfast appetizer! Let me know if you want another option or something different.
 ```
 
-**Point of first failure:**
+**Observations:**
 
-_(earliest thing that goes wrong — not every symptom; leave blank if none)_
+_(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
-**Notes:**
-
-_(free-form observations, your words, uncategorized)_
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
+
 
 ---
 
@@ -367,17 +359,15 @@ This hearty breakfast hash with veggies and potatoes, paired with perfectly air-
 Enjoy your delicious and easy air fryer breakfast hash! Let me know if you want a recipe for any specific dietary needs or preferences.
 ```
 
-**Point of first failure:**
+**Observations:**
 
-_(earliest thing that goes wrong — not every symptom; leave blank if none)_
+_(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
-**Notes:**
-
-_(free-form observations, your words, uncategorized)_
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
+
 
 ---
 
@@ -446,17 +436,15 @@ A light and flavorful pescatarian lunch perfect for two, featuring succulent shr
 - [ ] Black pepper
 ```
 
-**Point of first failure:**
+**Observations:**
 
-_(earliest thing that goes wrong — not every symptom; leave blank if none)_
+_(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
-**Notes:**
-
-_(free-form observations, your words, uncategorized)_
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
+
 
 ---
 
@@ -566,17 +554,15 @@ Sweet, chewy energy balls with chocolate and almonds—gluten-free and ready in 
 Enjoy making these easy gluten-free snacks! Let me know if you want any adjustments or other recipes.
 ```
 
-**Point of first failure:**
+**Observations:**
 
-_(earliest thing that goes wrong — not every symptom; leave blank if none)_
+_(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
-**Notes:**
-
-_(free-form observations, your words, uncategorized)_
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
+
 
 ---
 
@@ -666,17 +652,15 @@ A warm, comforting breakfast casserole filled with fluffy eggs, savory sausage, 
 Would you like me to suggest a side or a beverage recipe to complement this? Or any dietary preferences or ingredient restrictions I should consider?
 ```
 
-**Point of first failure:**
+**Observations:**
 
-_(earliest thing that goes wrong — not every symptom; leave blank if none)_
+_(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
-**Notes:**
-
-_(free-form observations, your words, uncategorized)_
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
+
 
 ---
 
@@ -747,17 +731,15 @@ A bright, flavorful, and quick pescatarian main dish featuring succulent shrimp 
 - [ ] Red pepper flakes (optional)
 ```
 
-**Point of first failure:**
+**Observations:**
 
-_(earliest thing that goes wrong — not every symptom; leave blank if none)_
+_(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
-**Notes:**
-
-_(free-form observations, your words, uncategorized)_
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
+
 
 ---
 
@@ -833,17 +815,15 @@ A quick, warm salad that's hearty and full of flavor—perfect for stovetop cook
 This warm salad is easy, nutritious, and perfect for a quick meal on the stove. Let me know if you want it adjusted for any allergies or dietary preferences!
 ```
 
-**Point of first failure:**
+**Observations:**
 
-_(earliest thing that goes wrong — not every symptom; leave blank if none)_
+_(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
-**Notes:**
-
-_(free-form observations, your words, uncategorized)_
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
+
 
 ---
 
@@ -923,17 +903,15 @@ This keto-friendly salad is packed with healthy fats and protein, making it a pe
 Enjoy your fresh and satisfying keto salad! Let me know if you want another salad or a different protein option.
 ```
 
-**Point of first failure:**
+**Observations:**
 
-_(earliest thing that goes wrong — not every symptom; leave blank if none)_
+_(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
-**Notes:**
-
-_(free-form observations, your words, uncategorized)_
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
+
 
 ---
 
@@ -1008,17 +986,15 @@ Rich, creamy, and infused with slow-roasted garlic, these mashed potatoes are a 
 Would you like me to suggest another side dish or help you pair this with an entrée?
 ```
 
-**Point of first failure:**
+**Observations:**
 
-_(earliest thing that goes wrong — not every symptom; leave blank if none)_
+_(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
-**Notes:**
-
-_(free-form observations, your words, uncategorized)_
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
+
 
 ---
 
@@ -1089,17 +1065,15 @@ These fresh and colorful Caprese skewers are light, delicious, and super easy to
 Let me know if you want another style of appetizer or have any dietary preferences!
 ```
 
-**Point of first failure:**
+**Observations:**
 
-_(earliest thing that goes wrong — not every symptom; leave blank if none)_
+_(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
-**Notes:**
-
-_(free-form observations, your words, uncategorized)_
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
+
 
 ---
 
@@ -1159,17 +1133,15 @@ A tasty, crunchy, and healthy gluten-free snack that's perfect for sharing with 
 Let me know if you'd like a different flavor, a sweet gluten-free snack, or something with no canned ingredients!
 ```
 
-**Point of first failure:**
+**Observations:**
 
-_(earliest thing that goes wrong — not every symptom; leave blank if none)_
+_(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
-**Notes:**
-
-_(free-form observations, your words, uncategorized)_
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
+
 
 ---
 
@@ -1193,17 +1165,15 @@ I'd be happy to help! To make sure I suggest the perfect snack side for you:
 This will help tailor the recipe just for you!
 ```
 
-**Point of first failure:**
+**Observations:**
 
-_(earliest thing that goes wrong — not every symptom; leave blank if none)_
+_(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
-**Notes:**
-
-_(free-form observations, your words, uncategorized)_
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
+
 
 ---
 
@@ -1227,17 +1197,15 @@ Great! Let's make a tasty one-pan stove-top dinner that’s satisfying and easy 
 That way I can suggest a delicious recipe perfect for your stove-only setup!
 ```
 
-**Point of first failure:**
+**Observations:**
 
-_(earliest thing that goes wrong — not every symptom; leave blank if none)_
+_(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
-**Notes:**
-
-_(free-form observations, your words, uncategorized)_
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
+
 
 ---
 
@@ -1384,17 +1352,15 @@ A refreshing salad with mixed greens, cherry tomatoes, cucumbers, and a tangy ba
 If you want, I can adjust any part of this or provide recipes for any dietary preferences. Enjoy your dinner preparation!
 ```
 
-**Point of first failure:**
+**Observations:**
 
-_(earliest thing that goes wrong — not every symptom; leave blank if none)_
+_(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
-**Notes:**
-
-_(free-form observations, your words, uncategorized)_
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
+
 
 ---
 
@@ -1454,17 +1420,15 @@ A quick and satisfying sweet snack that combines creamy peanut butter, rich choc
 This recipe takes about 10 minutes prep plus chilling time—easy and no baking needed! Would you like me to suggest something warm or baked instead?
 ```
 
-**Point of first failure:**
+**Observations:**
 
-_(earliest thing that goes wrong — not every symptom; leave blank if none)_
+_(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
-**Notes:**
-
-_(free-form observations, your words, uncategorized)_
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
+
 
 ---
 
@@ -1532,17 +1496,15 @@ This recipe is a fast and flavorful low-carb meal ready in just 15 minutes using
 If you want me to suggest low-carb side dishes or snacks too, just let me know!
 ```
 
-**Point of first failure:**
+**Observations:**
 
-_(earliest thing that goes wrong — not every symptom; leave blank if none)_
+_(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
-**Notes:**
-
-_(free-form observations, your words, uncategorized)_
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
+
 
 ---
 
@@ -1680,17 +1642,15 @@ Crispy, savory hash browns made with low-carb cauliflower instead of potatoes.
 These breakfasts are nutritious, low in carbs, and fairly quick to prepare. Would you like recipes that are vegan or free of certain allergens?
 ```
 
-**Point of first failure:**
+**Observations:**
 
-_(earliest thing that goes wrong — not every symptom; leave blank if none)_
+_(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
-**Notes:**
-
-_(free-form observations, your words, uncategorized)_
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
+
 
 ---
 
@@ -1941,17 +1901,15 @@ Tuna mixed with a spicy mayo sauce wrapped in a tortilla with crisp lettuce and 
 If you'd like any recipe tailored for certain dietary needs or want more details, just let me know! Enjoy your pescatarian lunches!
 ```
 
-**Point of first failure:**
+**Observations:**
 
-_(earliest thing that goes wrong — not every symptom; leave blank if none)_
+_(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
-**Notes:**
-
-_(free-form observations, your words, uncategorized)_
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
+
 
 ---
 
@@ -2020,17 +1978,15 @@ A flavorful and super fast garlic butter shrimp dish that’s naturally gluten-f
 Would you like me to suggest a gluten-free side dish to go with this?
 ```
 
-**Point of first failure:**
+**Observations:**
 
-_(earliest thing that goes wrong — not every symptom; leave blank if none)_
+_(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
-**Notes:**
-
-_(free-form observations, your words, uncategorized)_
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
+
 
 ---
 
@@ -2109,17 +2065,15 @@ A quick and satisfying lunch that’s simple to make on your stove or oven, perf
 Enjoy your tasty and simple homemade lunch! Would you like ideas for different types of wraps or something else?
 ```
 
-**Point of first failure:**
+**Observations:**
 
-_(earliest thing that goes wrong — not every symptom; leave blank if none)_
+_(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
-**Notes:**
-
-_(free-form observations, your words, uncategorized)_
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
+
 
 ---
 
@@ -2178,17 +2132,15 @@ A quick and tasty side dish featuring tender green beans with a savory garlic an
 - [ ] Black pepper
 ```
 
-**Point of first failure:**
+**Observations:**
 
-_(earliest thing that goes wrong — not every symptom; leave blank if none)_
+_(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
-**Notes:**
-
-_(free-form observations, your words, uncategorized)_
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
+
 
 ---
 
@@ -2252,17 +2204,15 @@ A warm, flavorful snack that's perfect for sharing. These cheesy garlic breadsti
 - [ ] Salt
 ```
 
-**Point of first failure:**
+**Observations:**
 
-_(earliest thing that goes wrong — not every symptom; leave blank if none)_
+_(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
-**Notes:**
-
-_(free-form observations, your words, uncategorized)_
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
+
 
 ---
 
@@ -2340,17 +2290,15 @@ A bright, flavorful, and dairy-free one-pan meal that cooks quickly and is perfe
 If you'd like a different cuisine or have other preferences, just let me know!
 ```
 
-**Point of first failure:**
+**Observations:**
 
-_(earliest thing that goes wrong — not every symptom; leave blank if none)_
+_(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
-**Notes:**
-
-_(free-form observations, your words, uncategorized)_
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
+
 
 ---
 
@@ -2429,17 +2377,15 @@ A fresh, creamy, and satisfying lunch that’s completely dairy-free, packed wit
 If you have any other dietary preferences or want a hot meal instead, just let me know! This recipe is easy and perfect for a dairy-free crowd.
 ```
 
-**Point of first failure:**
+**Observations:**
 
-_(earliest thing that goes wrong — not every symptom; leave blank if none)_
+_(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
-**Notes:**
-
-_(free-form observations, your words, uncategorized)_
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
+
 
 ---
 
@@ -2519,17 +2465,15 @@ This vibrant and refreshing Mediterranean quinoa salad is naturally gluten-free,
 Enjoy your fresh, naturally gluten-free salad! Let me know if you'd like me to suggest other gluten-free salad options or protein add-ons.
 ```
 
-**Point of first failure:**
+**Observations:**
 
-_(earliest thing that goes wrong — not every symptom; leave blank if none)_
+_(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
-**Notes:**
-
-_(free-form observations, your words, uncategorized)_
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
+
 
 ---
 
@@ -2694,17 +2638,15 @@ A light, sweet finish with natural yogurt and honey.
 Would you like me to customize this for any dietary preferences or suggest quick substitutions?
 ```
 
-**Point of first failure:**
+**Observations:**
 
-_(earliest thing that goes wrong — not every symptom; leave blank if none)_
+_(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
-**Notes:**
-
-_(free-form observations, your words, uncategorized)_
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
+
 
 ---
 
@@ -2777,17 +2719,15 @@ A vibrant and satisfying salad packed with fresh veggies, protein, and flavorful
 Enjoy your fresh and quick dinner salad! Let me know if you'd like a protein-rich variation or a different cuisine style.
 ```
 
-**Point of first failure:**
+**Observations:**
 
-_(earliest thing that goes wrong — not every symptom; leave blank if none)_
+_(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
-**Notes:**
-
-_(free-form observations, your words, uncategorized)_
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
+
 
 ---
 
@@ -2856,17 +2796,15 @@ Juicy, crispy chicken thighs with a flavorful herb crust, perfectly cooked in yo
 Let me know if you'd like keto-friendly side dish ideas or anything else!
 ```
 
-**Point of first failure:**
+**Observations:**
 
-_(earliest thing that goes wrong — not every symptom; leave blank if none)_
+_(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
-**Notes:**
-
-_(free-form observations, your words, uncategorized)_
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
+
 
 ---
 
@@ -2927,17 +2865,15 @@ A fresh, vibrant appetizer that combines juicy tomatoes, creamy mozzarella, and 
 - [ ] 1 small baguette or crusty bread (6 slices)
 ```
 
-**Point of first failure:**
+**Observations:**
 
-_(earliest thing that goes wrong — not every symptom; leave blank if none)_
+_(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
-**Notes:**
-
-_(free-form observations, your words, uncategorized)_
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
+
 
 ---
 
@@ -3125,17 +3061,15 @@ Light, protein-packed, and dairy-free lettuce wraps loaded with creamy avocado a
 If you have any dietary preferences or want recipes tailored for specific needs (gluten-free, vegan, etc.), just let me know!
 ```
 
-**Point of first failure:**
+**Observations:**
 
-_(earliest thing that goes wrong — not every symptom; leave blank if none)_
+_(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
-**Notes:**
-
-_(free-form observations, your words, uncategorized)_
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
+
 
 ---
 
@@ -3205,17 +3139,15 @@ A light and refreshing dessert featuring creamy lemon cheesecake layered with fr
 This dessert is easy and elegant, perfect for your pescatarian diet without needing a microwave or oven! Let me know if you want a dessert with different flavors or textures.
 ```
 
-**Point of first failure:**
+**Observations:**
 
-_(earliest thing that goes wrong — not every symptom; leave blank if none)_
+_(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
-**Notes:**
-
-_(free-form observations, your words, uncategorized)_
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
+
 
 ---
 
@@ -3233,17 +3165,15 @@ _Trace ID: `35`_
 Great! To tailor a lunch main dish recipe for you, do you have any dietary preferences or restrictions (e.g., vegetarian, gluten-free, no nuts)? Also, are there any ingredients you love or want to avoid?
 ```
 
-**Point of first failure:**
+**Observations:**
 
-_(earliest thing that goes wrong — not every symptom; leave blank if none)_
+_(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
-**Notes:**
-
-_(free-form observations, your words, uncategorized)_
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
+
 
 ---
 
@@ -3261,17 +3191,15 @@ _Trace ID: `36`_
 Great! To tailor a snack main recipe perfectly, could you please let me know if you have any dietary preferences or restrictions? Also, do you prefer something savory or sweet? And any favorite ingredients or cuisines? This will help me pick something you’ll enjoy!
 ```
 
-**Point of first failure:**
+**Observations:**
 
-_(earliest thing that goes wrong — not every symptom; leave blank if none)_
+_(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
-**Notes:**
-
-_(free-form observations, your words, uncategorized)_
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
+
 
 ---
 
@@ -3375,17 +3303,15 @@ Fresh veggies and creamy hummus rolled in tortillas make a simple, healthy snack
 Enjoy your tasty and easy snacks! Let me know if you want them adjusted for dietary preferences or other flavors.
 ```
 
-**Point of first failure:**
+**Observations:**
 
-_(earliest thing that goes wrong — not every symptom; leave blank if none)_
+_(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
-**Notes:**
-
-_(free-form observations, your words, uncategorized)_
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
+
 
 ---
 
@@ -3456,17 +3382,15 @@ A delicious, low-carb breakfast that's easy to prepare and perfect for a keto li
 Let me know if you want other keto breakfast ideas!
 ```
 
-**Point of first failure:**
+**Observations:**
 
-_(earliest thing that goes wrong — not every symptom; leave blank if none)_
+_(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
-**Notes:**
-
-_(free-form observations, your words, uncategorized)_
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
+
 
 ---
 
@@ -3528,17 +3452,15 @@ A crunchy, savory, and protein-packed snack that's super easy to make and perfec
 Enjoy your tasty and healthy snack! Would you like suggestions for drinks or dips to pair with it?
 ```
 
-**Point of first failure:**
+**Observations:**
 
-_(earliest thing that goes wrong — not every symptom; leave blank if none)_
+_(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
-**Notes:**
-
-_(free-form observations, your words, uncategorized)_
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
+
 
 ---
 
@@ -3607,17 +3529,15 @@ A simple, nutritious breakfast you can make quickly in your microwave with minim
 If you want, I can also suggest some quick microwave oatmeal or breakfast sandwiches! Just let me know.
 ```
 
-**Point of first failure:**
+**Observations:**
 
-_(earliest thing that goes wrong — not every symptom; leave blank if none)_
+_(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
-**Notes:**
-
-_(free-form observations, your words, uncategorized)_
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
+
 
 ---
 
@@ -3753,17 +3673,15 @@ A colorful stir-fry that’s ready in under 20 minutes and very customizable.
 If you'd like, I can help you adjust any dish for dietary preferences or add a dessert! Let me know.
 ```
 
-**Point of first failure:**
+**Observations:**
 
-_(earliest thing that goes wrong — not every symptom; leave blank if none)_
+_(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
-**Notes:**
-
-_(free-form observations, your words, uncategorized)_
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
+
 
 ---
 
@@ -3842,17 +3760,15 @@ This creamy, flavorful Tuscan chicken dish is rich, satisfying, and perfect for 
 If you'd like recipes with different proteins or dietary tweaks, just let me know!
 ```
 
-**Point of first failure:**
+**Observations:**
 
-_(earliest thing that goes wrong — not every symptom; leave blank if none)_
+_(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
-**Notes:**
-
-_(free-form observations, your words, uncategorized)_
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
+
 
 ---
 
@@ -3928,17 +3844,15 @@ A bright and flavorful chicken dish cooked with fresh lemon, garlic, and roasted
 Let me know if you want a plant-based dairy-free main or have other preferences!
 ```
 
-**Point of first failure:**
+**Observations:**
 
-_(earliest thing that goes wrong — not every symptom; leave blank if none)_
+_(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
-**Notes:**
-
-_(free-form observations, your words, uncategorized)_
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
+
 
 ---
 
@@ -3958,17 +3872,15 @@ Great! Since you have all day, I can suggest a hearty, flavorful breakfast side 
 Do you have any dietary preferences or restrictions I should consider? Otherwise, I'll proceed with a standard recipe.
 ```
 
-**Point of first failure:**
+**Observations:**
 
-_(earliest thing that goes wrong — not every symptom; leave blank if none)_
+_(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
-**Notes:**
-
-_(free-form observations, your words, uncategorized)_
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
+
 
 ---
 
@@ -4027,17 +3939,15 @@ These no-bake energy bites are quick, delicious, and perfect for a single snack.
 Enjoy your quick, homemade snack! Let me know if you want something savory or a different flavor profile.
 ```
 
-**Point of first failure:**
+**Observations:**
 
-_(earliest thing that goes wrong — not every symptom; leave blank if none)_
+_(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
-**Notes:**
-
-_(free-form observations, your words, uncategorized)_
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
+
 
 ---
 
@@ -4108,17 +4018,15 @@ These wings are a crowd-pleasing appetizer: crispy on the outside, juicy inside,
 If you want a vegetarian appetizer, just let me know! This recipe is beginner-friendly and quick. Enjoy your cooking!
 ```
 
-**Point of first failure:**
+**Observations:**
 
-_(earliest thing that goes wrong — not every symptom; leave blank if none)_
+_(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
-**Notes:**
-
-_(free-form observations, your words, uncategorized)_
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
+
 
 ---
 
@@ -4136,17 +4044,15 @@ _Trace ID: `47`_
 Great! To tailor the recipe perfectly for you, do you have any dietary preferences or restrictions? For example, do you want something with chicken, beef, vegetarian, or maybe seafood?
 ```
 
-**Point of first failure:**
+**Observations:**
 
-_(earliest thing that goes wrong — not every symptom; leave blank if none)_
+_(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
-**Notes:**
-
-_(free-form observations, your words, uncategorized)_
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
+
 
 ---
 
@@ -4214,17 +4120,15 @@ A quick and easy breakfast recipe that you can make entirely in the microwave—
 If you want suggestions for a microwave-friendly side or drink to pair with this, just ask!
 ```
 
-**Point of first failure:**
+**Observations:**
 
-_(earliest thing that goes wrong — not every symptom; leave blank if none)_
+_(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
-**Notes:**
-
-_(free-form observations, your words, uncategorized)_
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
+
 
 ---
 
@@ -4295,17 +4199,15 @@ This sous vide shrimp appetizer is juicy, flavorful, and ready in about an hour.
 Enjoy your elegant and flavorful sous vide shrimp appetizer! Let me know if you want another kind of appetizer or have dietary preferences!
 ```
 
-**Point of first failure:**
+**Observations:**
 
-_(earliest thing that goes wrong — not every symptom; leave blank if none)_
+_(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
-**Notes:**
-
-_(free-form observations, your words, uncategorized)_
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
+
 
 ---
 
@@ -4383,16 +4285,14 @@ A vibrant, healthy, and filling salad perfect for a relaxed meal or as a side di
 This Mediterranean salad is fresh, colorful, and full of flavor, making it perfect for a wholesome meal for four. Let me know if you have any dietary preferences or want a different style of salad!
 ```
 
-**Point of first failure:**
+**Observations:**
 
-_(earliest thing that goes wrong — not every symptom; leave blank if none)_
+_(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
-**Notes:**
-
-_(free-form observations, your words, uncategorized)_
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
+
 
 ---

@@ -111,18 +111,17 @@ def write_markdown(pairs, src_name):
             p.get("response", "") or "(empty response)",
             "```",
             "",
-            "**Point of first failure:**",
+            "**Observations:**",
             "",
-            "_(earliest thing that goes wrong — not every symptom; "
-            "leave blank if none)_",
+            "_(single-turn — note ALL failures you see, not just the "
+            "first. Complete sentences, quote the offending text. "
+            "Specific + app-specific; no generic labels. Uncategorized.)_",
             "",
-            "**Notes:**",
-            "",
-            "_(free-form observations, your words, uncategorized)_",
             "",
             "**Acceptable? (optional):**",
             "",
             "_(yes / no — force a side even if borderline)_",
+            "",
             "",
             "---",
             "",
