@@ -1,4 +1,4 @@
-# HW2 — My Work (ported from attempt1)
+# HW2 — My Work
 
 These are my in-progress HW2 notes from before resuming the course. The course
 **rewrote the HW2 assignment** since I forked, so the official flow now lives in
@@ -24,7 +24,7 @@ here so nothing is lost.
 - `meal`: breakfast, lunch, dinner, snack
 - `equipment_available`: microwave only, stove only, stove and oven, no microwave, sous vide, air fryer
 
-### Step 2: Unique Tuple Combos
+### Step 2: Unique Tuple Combos (DONE)
 
 Two routes I used:
 
@@ -50,7 +50,11 @@ LLM prompt I used:
 >
 > Each 3-tuple of values should be unique within the overall list of tuples.
 
-### Step 3: Natural-Language User Queries
+**COMPLETE: see `homeworks/hw2/my_work/query_combinations.csv`**
+
+
+
+### Step 3: Natural-Language User Queries (DONE)
 
 LLM prompt: *generate realistic user queries a user might input to a recipe
 chatbot. Select 5–7 tuples from the sample data, generate one natural-language
@@ -63,6 +67,9 @@ query per tuple.* Final 7 queries are in `synthetic_queries.csv`:
 5. Looking for a keto-friendly salad recipe. I have access to stove and oven if I need to roast anything — `(keto, salad, stove and oven)`
 6. Need to make dairy free lunch for 8 people. What would you suggest? — `(dairy free, lunch, 8)`
 7. Help me with a main dish for 3 people that I can get done in 45 minutes max — `(main, 3, 45 min)`
+
+**COMPLETE: see `homeworks/hw2/my_work/synthetic_queries.csv`**
+
 
 ---
 
