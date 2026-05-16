@@ -185,3 +185,24 @@ results/*
 
 
 .specstory
+
+# macOS
+.DS_Store
+.DS_Store?
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Editor/OS cruft
+*~
+.idea/
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
