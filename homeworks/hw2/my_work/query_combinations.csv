@@ -1,0 +1,51 @@
+combination_id,value1,value2,value3,dim1_name,dim2_name,dim3_name
+1,vegan,snack,2,dietary_restriction,meal,number_of_people
+2,vegan,dessert,30 min,dietary_restriction,dish_type,time_available
+3,low carb,air fryer,30 min,dietary_restriction,equipment_available,time_available
+4,breakfast,appetizer,1,meal,dish_type,number_of_people
+5,breakfast,1 hour,air fryer,meal,time_available,equipment_available
+6,lunch,2,pescatarian,meal,number_of_people,dietary_restriction
+7,2,gluten free,snack,number_of_dishes,dietary_restriction,meal
+8,breakfast,2 hour,stove and oven,meal,time_available,equipment_available
+9,pescatarian,main,1 hour,dietary_restriction,dish_type,time_available
+10,salad,30 min,stove only,dish_type,time_available,equipment_available
+11,keto,salad,stove and oven,dietary_restriction,dish_type,equipment_available
+12,side,8,>2 hours,dish_type,number_of_people,time_available
+13,lunch,appetizer,8,meal,dish_type,number_of_people
+14,snack,6,gluten free,meal,number_of_people,dietary_restriction
+15,snack,side,4,meal,dish_type,number_of_people
+16,dinner,2 hour,stove only,meal,time_available,equipment_available
+17,4,dinner,8,number_of_dishes,meal,number_of_people
+18,snack,dessert,2,meal,dish_type,number_of_people
+19,low carb,stove only,15 min,dietary_restriction,equipment_available,time_available
+20,4,low carb,breakfast,number_of_dishes,dietary_restriction,meal
+21,5,pescatarian,lunch,number_of_dishes,dietary_restriction,meal
+22,gluten free,main,15 min,dietary_restriction,dish_type,time_available
+23,stove and oven,1,lunch,equipment_available,number_of_people,meal
+24,side,15 min,microwave only,dish_type,time_available,equipment_available
+25,1,snack,3,number_of_dishes,meal,number_of_people
+26,dairy free,no microwave,45 min,dietary_restriction,equipment_available,time_available
+27,dairy free,lunch,8,dietary_restriction,meal,number_of_people
+28,gluten free,salad,2 hour,dietary_restriction,dish_type,time_available
+29,5,lunch,2,number_of_dishes,meal,number_of_people
+30,salad,dinner,15 min,dish_type,meal,time_available
+31,keto,air fryer,>2 hours,dietary_restriction,equipment_available,time_available
+32,appetizer,2,15 min,dish_type,number_of_people,time_available
+33,5,dairy free,lunch,number_of_dishes,dietary_restriction,meal
+34,pescatarian,dessert,no microwave,dietary_restriction,dish_type,equipment_available
+35,main,lunch,1 hour,dish_type,meal,time_available
+36,main,snack,45 min,dish_type,meal,time_available
+37,2,snack,2,number_of_dishes,meal,number_of_people
+38,breakfast,4,keto,meal,number_of_people,dietary_restriction
+39,snack,main,2,meal,dish_type,number_of_people
+40,breakfast,2 hour,microwave only,meal,time_available,equipment_available
+41,3,lunch,1,number_of_dishes,meal,number_of_people
+42,keto,main,2 hour,dietary_restriction,dish_type,time_available
+43,dairy free,main,no microwave,dietary_restriction,dish_type,equipment_available
+44,side,breakfast,>2 hours,dish_type,meal,time_available
+45,no microwave,1,snack,equipment_available,number_of_people,meal
+46,appetizer,30 min,stove and oven,dish_type,time_available,equipment_available
+47,main,3,45 min,dish_type,number_of_people,time_available
+48,microwave only,8,breakfast,equipment_available,number_of_people,meal
+49,appetizer,1 hour,sous vide,dish_type,time_available,equipment_available
+50,salad,4,2 hour,dish_type,number_of_people,time_available
