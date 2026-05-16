@@ -67,13 +67,22 @@ def write_markdown(pairs, src_name):
         "**How to use this file — open coding, course reader Sec 3.2"
         " (grounded theory):**",
         "",
-        "> For each trace, read the whole thing, then record the **point of"
-        " first failure** — the earliest (most upstream) thing that goes"
-        " wrong. One upstream error usually cascades; do NOT catalog every"
-        " downstream symptom. Write free-form notes in your own words. Do"
-        " NOT assign categories yet — grouping happens later in axial"
-        " coding. Optionally force a binary acceptable/unacceptable call"
-        " (pick a side even if borderline; it sharpens your criteria).",
+        "> For each trace, read the whole thing and write free-form notes"
+        " in your own words about what's wrong or surprising. These are"
+        " **single-turn** traces, so note **all** failure modes you see,"
+        " not just the first. (The 'point of first failure only' rule is"
+        " for multi-turn / multi-component traces with tool calls — per"
+        " the instructors, it doesn't apply here.) Do NOT assign"
+        " categories yet — grouping happens later in axial coding."
+        " Optionally force a binary acceptable/unacceptable call (pick a"
+        " side even if borderline; it sharpens your criteria).",
+        "",
+        "> Write **complete sentences** and **quote the offending text** —"
+        " you'll feed these notes to an LLM for axial coding, and you'll"
+        " need to re-read them yourself. Judge against your HW1 system"
+        " prompt's own promises, and read as your target user (a beginner"
+        " cook): the same output can be fine for one audience and a"
+        " failure for another.",
         "",
         "> Pitfall to avoid (Sec 3.7): don't reach for generic labels"
         " ('hallucination', 'verbosity'). Describe the *specific*,"
@@ -88,7 +97,9 @@ def write_markdown(pairs, src_name):
     ]
     for i, p in enumerate(pairs, 1):
         lines += [
-            f"## {i}. `{p['id']}`",
+            f"## {i}.",
+            "",
+            f"_Trace ID: `{p['id']}`_",
             "",
             "**User query:**",
             "",

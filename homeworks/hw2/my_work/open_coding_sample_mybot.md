@@ -4,7 +4,9 @@ All **50** traces from my own Recipe Bot — my 50 synthetic queries (`synthetic
 
 **How to use this file — open coding, course reader Sec 3.2 (grounded theory):**
 
-> For each trace, read the whole thing, then record the **point of first failure** — the earliest (most upstream) thing that goes wrong. One upstream error usually cascades; do NOT catalog every downstream symptom. Write free-form notes in your own words. Do NOT assign categories yet — grouping happens later in axial coding. Optionally force a binary acceptable/unacceptable call (pick a side even if borderline; it sharpens your criteria).
+> For each trace, read the whole thing and write free-form notes in your own words about what's wrong or surprising. These are **single-turn** traces, so note **all** failure modes you see, not just the first. (The 'point of first failure only' rule is for multi-turn / multi-component traces with tool calls — per the instructors, it doesn't apply here.) Do NOT assign categories yet — grouping happens later in axial coding. Optionally force a binary acceptable/unacceptable call (pick a side even if borderline; it sharpens your criteria).
+
+> Write **complete sentences** and **quote the offending text** — you'll feed these notes to an LLM for axial coding, and you'll need to re-read them yourself. Judge against your HW1 system prompt's own promises, and read as your target user (a beginner cook): the same output can be fine for one audience and a failure for another.
 
 > Pitfall to avoid (Sec 3.7): don't reach for generic labels ('hallucination', 'verbosity'). Describe the *specific*, app-specific thing this recipe bot did wrong.
 
@@ -12,7 +14,9 @@ After a pass through here, transfer observations into `error_analysis_mybot.csv`
 
 ---
 
-## 1. `1`
+## 1.
+
+_Trace ID: `1`_
 
 **User query:**
 
@@ -75,7 +79,9 @@ _(yes / no — force a side even if borderline)_
 
 ---
 
-## 2. `2`
+## 2.
+
+_Trace ID: `2`_
 
 **User query:**
 
@@ -143,7 +149,9 @@ _(yes / no — force a side even if borderline)_
 
 ---
 
-## 3. `3`
+## 3.
+
+_Trace ID: `3`_
 
 **User query:**
 
@@ -215,7 +223,9 @@ _(yes / no — force a side even if borderline)_
 
 ---
 
-## 4. `4`
+## 4.
+
+_Trace ID: `4`_
 
 **User query:**
 
@@ -290,7 +300,9 @@ _(yes / no — force a side even if borderline)_
 
 ---
 
-## 5. `5`
+## 5.
+
+_Trace ID: `5`_
 
 **User query:**
 
@@ -369,7 +381,9 @@ _(yes / no — force a side even if borderline)_
 
 ---
 
-## 6. `6`
+## 6.
+
+_Trace ID: `6`_
 
 **User query:**
 
@@ -446,7 +460,9 @@ _(yes / no — force a side even if borderline)_
 
 ---
 
-## 7. `7`
+## 7.
+
+_Trace ID: `7`_
 
 **User query:**
 
@@ -564,7 +580,9 @@ _(yes / no — force a side even if borderline)_
 
 ---
 
-## 8. `8`
+## 8.
+
+_Trace ID: `8`_
 
 **User query:**
 
@@ -662,7 +680,9 @@ _(yes / no — force a side even if borderline)_
 
 ---
 
-## 9. `9`
+## 9.
+
+_Trace ID: `9`_
 
 **User query:**
 
@@ -741,7 +761,9 @@ _(yes / no — force a side even if borderline)_
 
 ---
 
-## 10. `10`
+## 10.
+
+_Trace ID: `10`_
 
 **User query:**
 
@@ -825,7 +847,9 @@ _(yes / no — force a side even if borderline)_
 
 ---
 
-## 11. `11`
+## 11.
+
+_Trace ID: `11`_
 
 **User query:**
 
@@ -913,7 +937,9 @@ _(yes / no — force a side even if borderline)_
 
 ---
 
-## 12. `12`
+## 12.
+
+_Trace ID: `12`_
 
 **User query:**
 
@@ -996,7 +1022,9 @@ _(yes / no — force a side even if borderline)_
 
 ---
 
-## 13. `13`
+## 13.
+
+_Trace ID: `13`_
 
 **User query:**
 
@@ -1075,7 +1103,9 @@ _(yes / no — force a side even if borderline)_
 
 ---
 
-## 14. `14`
+## 14.
+
+_Trace ID: `14`_
 
 **User query:**
 
@@ -1143,7 +1173,9 @@ _(yes / no — force a side even if borderline)_
 
 ---
 
-## 15. `15`
+## 15.
+
+_Trace ID: `15`_
 
 **User query:**
 
@@ -1175,7 +1207,9 @@ _(yes / no — force a side even if borderline)_
 
 ---
 
-## 16. `16`
+## 16.
+
+_Trace ID: `16`_
 
 **User query:**
 
@@ -1207,7 +1241,9 @@ _(yes / no — force a side even if borderline)_
 
 ---
 
-## 17. `17`
+## 17.
+
+_Trace ID: `17`_
 
 **User query:**
 
@@ -1362,7 +1398,9 @@ _(yes / no — force a side even if borderline)_
 
 ---
 
-## 18. `18`
+## 18.
+
+_Trace ID: `18`_
 
 **User query:**
 
@@ -1430,7 +1468,9 @@ _(yes / no — force a side even if borderline)_
 
 ---
 
-## 19. `19`
+## 19.
+
+_Trace ID: `19`_
 
 **User query:**
 
@@ -1506,7 +1546,9 @@ _(yes / no — force a side even if borderline)_
 
 ---
 
-## 20. `20`
+## 20.
+
+_Trace ID: `20`_
 
 **User query:**
 
@@ -1652,7 +1694,9 @@ _(yes / no — force a side even if borderline)_
 
 ---
 
-## 21. `21`
+## 21.
+
+_Trace ID: `21`_
 
 **User query:**
 
@@ -1911,7 +1955,9 @@ _(yes / no — force a side even if borderline)_
 
 ---
 
-## 22. `22`
+## 22.
+
+_Trace ID: `22`_
 
 **User query:**
 
@@ -1988,7 +2034,9 @@ _(yes / no — force a side even if borderline)_
 
 ---
 
-## 23. `23`
+## 23.
+
+_Trace ID: `23`_
 
 **User query:**
 
@@ -2075,7 +2123,9 @@ _(yes / no — force a side even if borderline)_
 
 ---
 
-## 24. `24`
+## 24.
+
+_Trace ID: `24`_
 
 **User query:**
 
@@ -2142,7 +2192,9 @@ _(yes / no — force a side even if borderline)_
 
 ---
 
-## 25. `25`
+## 25.
+
+_Trace ID: `25`_
 
 **User query:**
 
@@ -2214,7 +2266,9 @@ _(yes / no — force a side even if borderline)_
 
 ---
 
-## 26. `26`
+## 26.
+
+_Trace ID: `26`_
 
 **User query:**
 
@@ -2300,7 +2354,9 @@ _(yes / no — force a side even if borderline)_
 
 ---
 
-## 27. `27`
+## 27.
+
+_Trace ID: `27`_
 
 **User query:**
 
@@ -2387,7 +2443,9 @@ _(yes / no — force a side even if borderline)_
 
 ---
 
-## 28. `28`
+## 28.
+
+_Trace ID: `28`_
 
 **User query:**
 
@@ -2475,7 +2533,9 @@ _(yes / no — force a side even if borderline)_
 
 ---
 
-## 29. `29`
+## 29.
+
+_Trace ID: `29`_
 
 **User query:**
 
@@ -2648,7 +2708,9 @@ _(yes / no — force a side even if borderline)_
 
 ---
 
-## 30. `30`
+## 30.
+
+_Trace ID: `30`_
 
 **User query:**
 
@@ -2729,7 +2791,9 @@ _(yes / no — force a side even if borderline)_
 
 ---
 
-## 31. `31`
+## 31.
+
+_Trace ID: `31`_
 
 **User query:**
 
@@ -2806,7 +2870,9 @@ _(yes / no — force a side even if borderline)_
 
 ---
 
-## 32. `32`
+## 32.
+
+_Trace ID: `32`_
 
 **User query:**
 
@@ -2875,7 +2941,9 @@ _(yes / no — force a side even if borderline)_
 
 ---
 
-## 33. `33`
+## 33.
+
+_Trace ID: `33`_
 
 **User query:**
 
@@ -3071,7 +3139,9 @@ _(yes / no — force a side even if borderline)_
 
 ---
 
-## 34. `34`
+## 34.
+
+_Trace ID: `34`_
 
 **User query:**
 
@@ -3149,7 +3219,9 @@ _(yes / no — force a side even if borderline)_
 
 ---
 
-## 35. `35`
+## 35.
+
+_Trace ID: `35`_
 
 **User query:**
 
@@ -3175,7 +3247,9 @@ _(yes / no — force a side even if borderline)_
 
 ---
 
-## 36. `36`
+## 36.
+
+_Trace ID: `36`_
 
 **User query:**
 
@@ -3201,7 +3275,9 @@ _(yes / no — force a side even if borderline)_
 
 ---
 
-## 37. `37`
+## 37.
+
+_Trace ID: `37`_
 
 **User query:**
 
@@ -3313,7 +3389,9 @@ _(yes / no — force a side even if borderline)_
 
 ---
 
-## 38. `38`
+## 38.
+
+_Trace ID: `38`_
 
 **User query:**
 
@@ -3392,7 +3470,9 @@ _(yes / no — force a side even if borderline)_
 
 ---
 
-## 39. `39`
+## 39.
+
+_Trace ID: `39`_
 
 **User query:**
 
@@ -3462,7 +3542,9 @@ _(yes / no — force a side even if borderline)_
 
 ---
 
-## 40. `40`
+## 40.
+
+_Trace ID: `40`_
 
 **User query:**
 
@@ -3539,7 +3621,9 @@ _(yes / no — force a side even if borderline)_
 
 ---
 
-## 41. `41`
+## 41.
+
+_Trace ID: `41`_
 
 **User query:**
 
@@ -3683,7 +3767,9 @@ _(yes / no — force a side even if borderline)_
 
 ---
 
-## 42. `42`
+## 42.
+
+_Trace ID: `42`_
 
 **User query:**
 
@@ -3770,7 +3856,9 @@ _(yes / no — force a side even if borderline)_
 
 ---
 
-## 43. `43`
+## 43.
+
+_Trace ID: `43`_
 
 **User query:**
 
@@ -3854,7 +3942,9 @@ _(yes / no — force a side even if borderline)_
 
 ---
 
-## 44. `44`
+## 44.
+
+_Trace ID: `44`_
 
 **User query:**
 
@@ -3882,7 +3972,9 @@ _(yes / no — force a side even if borderline)_
 
 ---
 
-## 45. `45`
+## 45.
+
+_Trace ID: `45`_
 
 **User query:**
 
@@ -3949,7 +4041,9 @@ _(yes / no — force a side even if borderline)_
 
 ---
 
-## 46. `46`
+## 46.
+
+_Trace ID: `46`_
 
 **User query:**
 
@@ -4028,7 +4122,9 @@ _(yes / no — force a side even if borderline)_
 
 ---
 
-## 47. `47`
+## 47.
+
+_Trace ID: `47`_
 
 **User query:**
 
@@ -4054,7 +4150,9 @@ _(yes / no — force a side even if borderline)_
 
 ---
 
-## 48. `48`
+## 48.
+
+_Trace ID: `48`_
 
 **User query:**
 
@@ -4130,7 +4228,9 @@ _(yes / no — force a side even if borderline)_
 
 ---
 
-## 49. `49`
+## 49.
+
+_Trace ID: `49`_
 
 **User query:**
 
@@ -4209,7 +4309,9 @@ _(yes / no — force a side even if borderline)_
 
 ---
 
-## 50. `50`
+## 50.
+
+_Trace ID: `50`_
 
 **User query:**
 
