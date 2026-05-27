@@ -1,51 +1,51 @@
-﻿Trace_ID,User_Query,Full_Bot_Trace_Summary,Open_Code_Notes
-1,Give me a vegan snack recipe. for 2 people.,,
-2,Help me make a vegan dessert. In about 30 minutes.,,
-3,I need a low carb recipe. I have an air fryer. In about 30 minutes.,,
-4,Give me a breakfast appetizer recipe. for just me.,,
-5,What's a good breakfast? I have an air fryer. In around an hour.,,
-6,Give me a pescatarian lunch recipe. For 2 people.,,
-7,I need a gluten free snack. I need 2 dishes.,,
-8,Looking for a breakfast. i have a stove and oven and I've got a couple hours.,,
-9,Looking for a pescatarian main. In around an hour.,,
-10,Looking for a salad. i only have a stove (no oven) and in about 30 minutes.,,
-11,I need a keto salad — i have a stove and oven.,,
-12,Help me make a side. I've got all day to cook and for 8 people.,,
-13,I need a lunch appetizer. For 8 people.,,
-14,What's a good gluten free snack? For 6 people.,,
-15,Help me make a snack side — for 4 people.,,
-16,Help me make a dinner. I only have a stove (no oven). I've got a couple hours.,,
-17,What's a good dinner? I need 4 dishes. For 8 people.,,
-18,Help me make a snack dessert. For 2 people.,,
-19,Help me make a low carb recipe. in 15 minutes or less and i only have a stove (no oven).,,
-20,What's a good low carb breakfast? I need 4 dishes.,,
-21,Give me a pescatarian lunch recipe. I need 5 dishes.,,
-22,Give me a gluten free main recipe — in 15 minutes or less.,,
-23,Looking for a lunch. i have a stove and oven and for just me.,,
-24,I need a side. in 15 minutes or less and i only have a microwave.,,
-25,I need a snack. I need a single dish. For 3 people.,,
-26,I need a dairy free recipe. In 45 minutes max. I don't have a microwave.,,
-27,What's a good dairy free lunch? For 8 people.,,
-28,What's a good gluten free salad? I've got a couple hours.,,
-29,Help me make a lunch. For 2 people. I need 5 dishes.,,
-30,I need a dinner salad — in 15 minutes or less.,,
-31,Give me a keto recipe recipe. I've got all day to cook and i have an air fryer.,,
-32,I need a appetizer. for 2 people and in 15 minutes or less.,,
-33,What's a good dairy free lunch? I need 5 dishes.,,
-34,Help me make a pescatarian dessert — i don't have a microwave.,,
-35,Looking for a lunch main. in around an hour.,,
-36,Help me make a snack main. In 45 minutes max.,,
-37,Give me a snack recipe. I need 2 dishes. For 2 people.,,
-38,What's a good keto breakfast? For 4 people.,,
-39,Give me a snack main recipe — for 2 people.,,
-40,Help me make a breakfast. i only have a microwave and I've got a couple hours.,,
-41,What's a good lunch? I need 3 dishes. For just me.,,
-42,What's a good keto main? I've got a couple hours.,,
-43,Help me make a dairy free main. I don't have a microwave.,,
-44,I need a breakfast side. I've got all day to cook.,,
-45,Looking for a snack. i don't have a microwave and for just me.,,
-46,What's a good appetizer? In about 30 minutes. I have a stove and oven.,,
-47,I need a main. In 45 minutes max. For 3 people.,,
-48,Give me a breakfast recipe. I only have a microwave. For 8 people.,,
-49,I need a appetizer. I have a sous vide setup. In around an hour.,,
-50,Give me a salad recipe. I've got a couple hours and for 4 people.,,
+﻿Trace_ID,User_Query,Full_Bot_Trace_Summary,Open_Code_Notes,FM1_Missing_Structural_Sections,FM2_Shopping_List_Mismatch,FM3_Ambiguous_Quantities,FM4_Missing_Serving_Size,FM5_Missing_Cross_Dish_Sequencing,FM6_Inconsistent_Recipe_vs_Questions,FM7_Implicit_Missing_Prerequisite_Steps,FM8_Time_Constraint_Misinterpretation
+1,Give me a vegan snack recipe. for 2 people.,,"- instructions at step two assumed reader had already rinsed the chickpeas, but had not given that instruction explicitly before || - ingredients should also have an 'equipment needed' section listing out the equipment needed (baking sheet, parchment paper, bowl, oven) || - step 3 should just say 'Toss the chickpeas with the olive oil and spices until evenly coated.' || - step 6 should say ""Let cool before serving"" instead of ""Allow to cool slightly before serving"" || - add time guidance section (prep + pickup)",1,0,0,0,0,0,1,0
+2,Help me make a vegan dessert. In about 30 minutes.,,- need to list equipment needed for the recipe || - step 6 should note that toppings are optional || - add time guidance section (prep + pickup) || - shopping list didn't list the other optional toppings (only listed berries),1,1,0,0,0,0,0,0
+3,I need a low carb recipe. I have an air fryer. In about 30 minutes.,,"- needs to list equipment needed || - add time guidance section (prep + pickup) || - variations should provide cooking times if using drumsticks or boneless chicken breasts || - closing message should read: ""Let me know if you want a low-carb side suggestion to go with this!""",1,0,0,0,0,0,0,0
+4,Give me a breakfast appetizer recipe. for just me.,,"- needs Equipment section || - the step one of instructions doesn't say to test the to toast this in the oven or a toaster. (doesn't specify, if it matters) || - needs timing guidance as its own section of the top",1,0,0,0,0,0,1,0
+5,What's a good breakfast? I have an air fryer. In around an hour.,,"- missing equipment and timing sections || - Don't know if cooking eggs like this as it's instructed in steps five and six is actually a thing people do. || - In the tips section, if they're gonna add cooked sausage, it needs to specify if they are supposed to cook that separately or along with the hash in steps three and four within air fryer || - NOTE: have AI analyze all responses to see if the shopping list and ingredient lists match",1,0,0,0,0,0,1,0
+6,Give me a pescatarian lunch recipe. For 2 people.,,- needs timing and equipment sections (pattern across all -- fix in system prompt) || - need to have two instruction subsections: prep and cooking. (pattern across all -- fix in system prompt),1,0,0,0,0,0,0,0
+7,I need a gluten free snack. I need 2 dishes.,,- same points about gear and timing needed,1,0,0,0,0,0,0,0
+8,Looking for a breakfast. i have a stove and oven and I've got a couple hours.,,- same as previous ones,1,0,0,0,0,0,0,0
+9,Looking for a pescatarian main. In around an hour.,,"- good - is pescatarian and a main || - shouldn't say ""dinner"" since user only requested a main (dish type, not meal type) || - same structural ones as others (e.g. add gear and timing sections) || - cherry tomatoes optional recommendation but missing from shopping list",1,1,0,1,0,0,0,0
+10,Looking for a salad. i only have a stove (no oven) and in about 30 minutes.,,"- double check the salad -- is this supposed to be a warm, wilted salad? || - doesn't say how many people the dish serves (this is general, all recipes should say that)",0,0,0,1,0,0,0,0
+11,I need a keto salad — i have a stove and oven.,,"- system prompt - do not necessarily HAVE to use the equipment that they state that they have (i.e. most salads are cold and don't require a stove or oven) || - how thin is ""thinly sliced""?",0,0,1,0,0,0,0,0
+12,Help me make a side. I've got all day to cook and for 8 people.,,"- system prompt should cap most rceipes time by category (i.e. a side should never take more than X time, a main never more than Y time)",0,0,0,0,0,0,0,0
+13,I need a lunch appetizer. For 8 people.,,"- this is good, straightforward",0,0,0,0,0,0,0,0
+14,What's a good gluten free snack? For 6 people.,,"- step 3 - should user pre-mix the spices before adding to chickpeas, or just dump it all in a bowl and then mix?",0,0,0,0,0,0,1,0
+15,Help me make a snack side — for 4 people.,,"- interesting that here, the bot replied with questions, where in other queries on snacks it just replied with a recipe || - questions were useful, it could ask for how many people",0,0,0,0,0,1,0,0
+16,Help me make a dinner. I only have a stove (no oven). I've got a couple hours.,,"- interesting that here, the bot again went to asking questions rather than providing recipe back straight away || - questions it asked were useful, it could have asked for how many people",0,0,0,0,0,1,0,0
+17,What's a good dinner? I need 4 dishes. For 8 people.,,"- doesn't suggest anything about sequencing across dishes (esp. when combining across prep & pickup) || - instructions are isolated to each dish, which is fine, but if writing a multi-device dish note any inter-dish sequencing considerations",0,0,0,0,1,0,0,0
+18,Help me make a snack dessert. For 2 people.,,"- instructions should say how much of ingredients to mix at each step (e.g. ""stir in 1/2tsp vanilla extract and a pinch of salt"" instead of ""stir in vanilla extract and a pinch of salt"")",0,0,1,0,0,0,0,0
+19,Help me make a low carb recipe. in 15 minutes or less and i only have a stove (no oven).,,"- system prompt: should note that total time for each recipe should include prep time, and that user time limits are the total time (i.e. ""I have 15 minutes"" means ""I have 15 minutes overall for prep and pickup, not just for cooking"")",0,0,0,0,0,0,0,1
+20,What's a good low carb breakfast? I need 4 dishes.,,- need cross-dish sequencing or timing when suggesting multiple dishes,0,0,0,0,1,0,0,0
+21,Give me a pescatarian lunch recipe. I need 5 dishes.,,,,,,,,,,
+22,Give me a gluten free main recipe — in 15 minutes or less.,,,,,,,,,,
+23,Looking for a lunch. i have a stove and oven and for just me.,,,,,,,,,,
+24,I need a side. in 15 minutes or less and i only have a microwave.,,,,,,,,,,
+25,I need a snack. I need a single dish. For 3 people.,,,,,,,,,,
+26,I need a dairy free recipe. In 45 minutes max. I don't have a microwave.,,,,,,,,,,
+27,What's a good dairy free lunch? For 8 people.,,,,,,,,,,
+28,What's a good gluten free salad? I've got a couple hours.,,,,,,,,,,
+29,Help me make a lunch. For 2 people. I need 5 dishes.,,,,,,,,,,
+30,I need a dinner salad — in 15 minutes or less.,,,,,,,,,,
+31,Give me a keto recipe recipe. I've got all day to cook and i have an air fryer.,,,,,,,,,,
+32,I need a appetizer. for 2 people and in 15 minutes or less.,,,,,,,,,,
+33,What's a good dairy free lunch? I need 5 dishes.,,,,,,,,,,
+34,Help me make a pescatarian dessert — i don't have a microwave.,,,,,,,,,,
+35,Looking for a lunch main. in around an hour.,,,,,,,,,,
+36,Help me make a snack main. In 45 minutes max.,,,,,,,,,,
+37,Give me a snack recipe. I need 2 dishes. For 2 people.,,,,,,,,,,
+38,What's a good keto breakfast? For 4 people.,,,,,,,,,,
+39,Give me a snack main recipe — for 2 people.,,,,,,,,,,
+40,Help me make a breakfast. i only have a microwave and I've got a couple hours.,,,,,,,,,,
+41,What's a good lunch? I need 3 dishes. For just me.,,,,,,,,,,
+42,What's a good keto main? I've got a couple hours.,,,,,,,,,,
+43,Help me make a dairy free main. I don't have a microwave.,,,,,,,,,,
+44,I need a breakfast side. I've got all day to cook.,,,,,,,,,,
+45,Looking for a snack. i don't have a microwave and for just me.,,,,,,,,,,
+46,What's a good appetizer? In about 30 minutes. I have a stove and oven.,,,,,,,,,,
+47,I need a main. In 45 minutes max. For 3 people.,,,,,,,,,,
+48,Give me a breakfast recipe. I only have a microwave. For 8 people.,,,,,,,,,,
+49,I need a appetizer. I have a sous vide setup. In around an hour.,,,,,,,,,,
+50,Give me a salad recipe. I've got a couple hours and for 4 people.,,,,,,,,,,

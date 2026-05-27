@@ -69,11 +69,15 @@ A crunchy, flavorful vegan snack that's easy to make and perfect for sharing. Th
 
 _(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
+- instructions at step two assumed reader had already rinsed the chickpeas, but had not given that instruction explicitly before
+- ingredients should also have an 'equipment needed' section listing out the equipment needed (baking sheet, parchment paper, bowl, oven)
+- step 3 should just say 'Toss the chickpeas with the olive oil and spices until evenly coated.'
+- step 6 should say "Let cool before serving" instead of "Allow to cool slightly before serving"
+- add time guidance section (prep + pickup)
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
-
 
 ---
 
@@ -137,11 +141,14 @@ Enjoy your quick and delicious vegan dessert! Let me know if you want another ty
 
 _(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
+- need to list equipment needed for the recipe
+- step 6 should note that toppings are optional
+- add time guidance section (prep + pickup)
+- shopping list didn't list the other optional toppings (only listed berries)
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
-
 
 ---
 
@@ -209,11 +216,14 @@ Let me know if you want a side suggestion to go with this, also low carb!
 
 _(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
+- needs to list equipment needed
+- add time guidance section (prep + pickup)
+- variations should provide cooking times if using drumsticks or boneless chicken breasts
+- closing message should read: "Let me know if you want a low-carb side suggestion to go with this!"
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
-
 
 ---
 
@@ -284,11 +294,13 @@ Enjoy your tasty and easy breakfast appetizer! Let me know if you want another o
 
 _(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
+- needs Equipment section
+- the step one of instructions doesn't say to test the to toast this in the oven or a toaster. (doesn't specify, if it matters)
+- needs timing guidance as its own section of the top
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
-
 
 ---
 
@@ -363,11 +375,14 @@ Enjoy your delicious and easy air fryer breakfast hash! Let me know if you want 
 
 _(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
+- missing equipment and timing sections
+- Don't know if cooking eggs like this as it's instructed in steps five and six is actually a thing people do.
+- In the tips section, if they're gonna add cooked sausage, it needs to specify if they are supposed to cook that separately or along with the hash in steps three and four within air fryer
+- NOTE: have AI analyze all responses to see if the shopping list and ingredient lists match
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
-
 
 ---
 
@@ -440,11 +455,13 @@ A light and flavorful pescatarian lunch perfect for two, featuring succulent shr
 
 _(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
+- needs timing and equipment sections (pattern across all -- fix in system prompt)
+- need to have two instruction subsections: prep and cooking. (pattern across all -- fix in system prompt)
+- 
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
-
 
 ---
 
@@ -558,11 +575,11 @@ Enjoy making these easy gluten-free snacks! Let me know if you want any adjustme
 
 _(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
+- same points about gear and timing needed
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
-
 
 ---
 
@@ -656,11 +673,11 @@ Would you like me to suggest a side or a beverage recipe to complement this? Or 
 
 _(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
+- same as previous ones
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
-
 
 ---
 
@@ -735,11 +752,14 @@ A bright, flavorful, and quick pescatarian main dish featuring succulent shrimp 
 
 _(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
+- good - is pescatarian and a main
+- shouldn't say "dinner" since user only requested a main (dish type, not meal type)
+- same structural ones as others (e.g. add gear and timing sections) 
+- cherry tomatoes optional recommendation but missing from shopping list
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
-
 
 ---
 
@@ -819,11 +839,12 @@ This warm salad is easy, nutritious, and perfect for a quick meal on the stove. 
 
 _(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
+- double check the salad -- is this supposed to be a warm, wilted salad?
+- doesn't say how many people the dish serves (this is general, all recipes should say that)
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
-
 
 ---
 
@@ -907,11 +928,12 @@ Enjoy your fresh and satisfying keto salad! Let me know if you want another sala
 
 _(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
+- system prompt - do not necessarily HAVE to use the equipment that they state that they have (i.e. most salads are cold and don't require a stove or oven)
+- how thin is "thinly sliced"?
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
-
 
 ---
 
@@ -990,11 +1012,11 @@ Would you like me to suggest another side dish or help you pair this with an ent
 
 _(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
+- system prompt should cap most rceipes time by category (i.e. a side should never take more than X time, a main never more than Y time)
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
-
 
 ---
 
@@ -1069,11 +1091,11 @@ Let me know if you want another style of appetizer or have any dietary preferenc
 
 _(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
+- this is good, straightforward
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
-
 
 ---
 
@@ -1137,11 +1159,11 @@ Let me know if you'd like a different flavor, a sweet gluten-free snack, or some
 
 _(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
+- step 3 - should user pre-mix the spices before adding to chickpeas, or just dump it all in a bowl and then mix?
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
-
 
 ---
 
@@ -1169,11 +1191,12 @@ This will help tailor the recipe just for you!
 
 _(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
+- interesting that here, the bot replied with questions, where in other queries on snacks it just replied with a recipe
+- questions were useful, it could ask for how many people
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
-
 
 ---
 
@@ -1201,11 +1224,12 @@ That way I can suggest a delicious recipe perfect for your stove-only setup!
 
 _(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
+- interesting that here, the bot again went to asking questions rather than providing recipe back straight away
+- questions it asked were useful, it could have asked for how many people
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
-
 
 ---
 
@@ -1356,11 +1380,12 @@ If you want, I can adjust any part of this or provide recipes for any dietary pr
 
 _(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
+- doesn't suggest anything about sequencing across dishes (esp. when combining across prep & pickup)
+- instructions are isolated to each dish, which is fine, but if writing a multi-device dish note any inter-dish sequencing considerations
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
-
 
 ---
 
@@ -1408,9 +1433,9 @@ A quick and satisfying sweet snack that combines creamy peanut butter, rich choc
 **Pantry/Dry Goods**
 - [ ] 1 cup rolled oats
 - [ ] 1/4 cup mini chocolate chips
-- [ ] Honey or maple syrup (small bottle)  
-- [ ] Vanilla extract  
-- [ ] Salt  
+- [ ] Honey or maple syrup (small bottle)
+- [ ] Vanilla extract
+- [ ] Salt
 
 **Other**
 - [ ] Creamy peanut butter (small jar)
@@ -1424,11 +1449,11 @@ This recipe takes about 10 minutes prep plus chilling time—easy and no baking 
 
 _(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
+- instructions should say how much of ingredients to mix at each step (e.g. "stir in 1/2tsp vanilla extract and a pinch of salt" instead of "stir in vanilla extract and a pinch of salt")
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
-
 
 ---
 
@@ -1500,11 +1525,11 @@ If you want me to suggest low-carb side dishes or snacks too, just let me know!
 
 _(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
+- system prompt: should note that total time for each recipe should include prep time, and that user time limits are the total time (i.e. "I have 15 minutes" means "I have 15 minutes overall for prep and pickup, not just for cooking")
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
-
 
 ---
 
@@ -1521,121 +1546,121 @@ _Trace ID: `20`_
 ```text
 Sure! Here are four tasty and easy low-carb breakfast dishes that are filling and delicious.
 
-## 1. Spinach and Feta Omelette  
+## 1. Spinach and Feta Omelette
 A fluffy omelette loaded with nutritious spinach and tangy feta cheese.
 
 ### Ingredients
-- 3 large eggs  
-- 1/4 cup fresh spinach, chopped  
-- 2 tbsp feta cheese, crumbled  
-- 1 tbsp butter or olive oil  
-- Salt and pepper, to taste  
+- 3 large eggs
+- 1/4 cup fresh spinach, chopped
+- 2 tbsp feta cheese, crumbled
+- 1 tbsp butter or olive oil
+- Salt and pepper, to taste
 
 ### Instructions
-1. Beat the eggs with salt and pepper in a bowl.  
-2. Heat butter or olive oil in a non-stick skillet over medium heat.  
-3. Add chopped spinach and sauté for 1-2 minutes until wilted.  
-4. Pour the beaten eggs over the spinach and cook without stirring until the edges start to set.  
-5. Sprinkle feta cheese on one half of the omelette.  
-6. Fold the omelette in half and cook for another minute until cheese melts.  
-7. Slide onto a plate and serve hot.  
+1. Beat the eggs with salt and pepper in a bowl.
+2. Heat butter or olive oil in a non-stick skillet over medium heat.
+3. Add chopped spinach and sauté for 1-2 minutes until wilted.
+4. Pour the beaten eggs over the spinach and cook without stirring until the edges start to set.
+5. Sprinkle feta cheese on one half of the omelette.
+6. Fold the omelette in half and cook for another minute until cheese melts.
+7. Slide onto a plate and serve hot.
 
 ### Tips
-- Use fresh spinach for best flavor; frozen spinach can be used but squeeze out excess water first.  
-- Add herbs like dill or parsley for extra freshness.  
+- Use fresh spinach for best flavor; frozen spinach can be used but squeeze out excess water first.
+- Add herbs like dill or parsley for extra freshness.
 
 ---
 
-## 2. Avocado and Bacon Breakfast Bowl  
+## 2. Avocado and Bacon Breakfast Bowl
 Creamy avocado paired with crispy bacon and a soft-boiled egg for richness and crunch.
 
 ### Ingredients
-- 1 ripe avocado, sliced  
-- 2 slices bacon  
-- 1 large egg  
-- Salt and pepper, to taste  
+- 1 ripe avocado, sliced
+- 2 slices bacon
+- 1 large egg
+- Salt and pepper, to taste
 
 ### Instructions
-1. Cook the bacon in a skillet over medium heat until crispy. Drain on paper towels.  
-2. Bring a small pot of water to boil. Carefully add the egg and cook for 6-7 minutes for a soft-boiled yolk.  
-3. Remove egg and place in cold water to stop cooking; peel the shell.  
-4. In a bowl, arrange sliced avocado, bacon pieces, and the peeled egg.  
-5. Season with salt and pepper and serve.  
+1. Cook the bacon in a skillet over medium heat until crispy. Drain on paper towels.
+2. Bring a small pot of water to boil. Carefully add the egg and cook for 6-7 minutes for a soft-boiled yolk.
+3. Remove egg and place in cold water to stop cooking; peel the shell.
+4. In a bowl, arrange sliced avocado, bacon pieces, and the peeled egg.
+5. Season with salt and pepper and serve.
 
 ### Tips
-- Swap bacon for turkey bacon or sausage if preferred.  
-- A sprinkle of chili flakes adds nice heat.  
+- Swap bacon for turkey bacon or sausage if preferred.
+- A sprinkle of chili flakes adds nice heat.
 
 ---
 
-## 3. Greek Yogurt with Nuts and Berries  
+## 3. Greek Yogurt with Nuts and Berries
 A creamy, low-carb breakfast rich in protein and antioxidants.
 
 ### Ingredients
-- 3/4 cup plain Greek yogurt (full fat)  
-- 1/4 cup mixed berries (strawberries, blueberries, raspberries)  
-- 2 tbsp chopped nuts (walnuts, almonds, or pecans)  
-- 1 tsp chia seeds (optional)  
+- 3/4 cup plain Greek yogurt (full fat)
+- 1/4 cup mixed berries (strawberries, blueberries, raspberries)
+- 2 tbsp chopped nuts (walnuts, almonds, or pecans)
+- 1 tsp chia seeds (optional)
 
 ### Instructions
-1. Spoon Greek yogurt into a bowl.  
-2. Top with berries, nuts, and chia seeds if using.  
-3. Mix gently and enjoy immediately.  
+1. Spoon Greek yogurt into a bowl.
+2. Top with berries, nuts, and chia seeds if using.
+3. Mix gently and enjoy immediately.
 
 ### Tips
-- Use unsweetened yogurt to keep carbs low.  
-- Add a few drops of vanilla extract or cinnamon for extra flavor.  
+- Use unsweetened yogurt to keep carbs low.
+- Add a few drops of vanilla extract or cinnamon for extra flavor.
 
 ---
 
-## 4. Cauliflower Hash Browns  
+## 4. Cauliflower Hash Browns
 Crispy, savory hash browns made with low-carb cauliflower instead of potatoes.
 
 ### Ingredients
-- 2 cups cauliflower rice (grated cauliflower)  
-- 1 large egg  
-- 1/4 cup shredded cheddar cheese  
-- 2 tbsp almond flour (or coconut flour)  
-- 1/2 tsp garlic powder  
-- Salt and pepper, to taste  
-- 2 tbsp olive oil or butter  
+- 2 cups cauliflower rice (grated cauliflower)
+- 1 large egg
+- 1/4 cup shredded cheddar cheese
+- 2 tbsp almond flour (or coconut flour)
+- 1/2 tsp garlic powder
+- Salt and pepper, to taste
+- 2 tbsp olive oil or butter
 
 ### Instructions
-1. Place cauliflower rice in a clean kitchen towel and squeeze out excess moisture.  
-2. In a bowl, combine cauliflower, egg, cheese, almond flour, garlic powder, salt, and pepper.  
-3. Heat oil or butter in a skillet over medium heat.  
-4. Form mixture into small patties and cook for 3-4 minutes each side until golden and crispy.  
-5. Drain on paper towels and serve warm.  
+1. Place cauliflower rice in a clean kitchen towel and squeeze out excess moisture.
+2. In a bowl, combine cauliflower, egg, cheese, almond flour, garlic powder, salt, and pepper.
+3. Heat oil or butter in a skillet over medium heat.
+4. Form mixture into small patties and cook for 3-4 minutes each side until golden and crispy.
+5. Drain on paper towels and serve warm.
 
 ### Tips
-- You can add chopped green onions or herbs for extra flavor.  
-- Serve with sugar-free ketchup or sour cream.  
+- You can add chopped green onions or herbs for extra flavor.
+- Serve with sugar-free ketchup or sour cream.
 
 ---
 
-### Shopping List  
-**Produce**  
-- [ ] Fresh spinach (1 small bunch or bag)  
-- [ ] 1 ripe avocado  
-- [ ] Mixed berries (small container)  
-- [ ] 1 head cauliflower or pre-riced cauliflower  
+### Shopping List
+**Produce**
+- [ ] Fresh spinach (1 small bunch or bag)
+- [ ] 1 ripe avocado
+- [ ] Mixed berries (small container)
+- [ ] 1 head cauliflower or pre-riced cauliflower
 
-**Meat/Seafood**  
-- [ ] Bacon (4 slices)  
+**Meat/Seafood**
+- [ ] Bacon (4 slices)
 
-**Dairy**  
-- [ ] Eggs (1 dozen)  
-- [ ] Feta cheese (small block or crumbled pack)  
-- [ ] Shredded cheddar cheese (small pack)  
-- [ ] Plain Greek yogurt (full fat)  
+**Dairy**
+- [ ] Eggs (1 dozen)
+- [ ] Feta cheese (small block or crumbled pack)
+- [ ] Shredded cheddar cheese (small pack)
+- [ ] Plain Greek yogurt (full fat)
 
-**Pantry/Dry Goods**  
-- [ ] Butter or olive oil  
-- [ ] Almond flour or coconut flour  
-- [ ] Chia seeds (optional)  
-- [ ] Salt  
-- [ ] Black pepper  
-- [ ] Garlic powder  
+**Pantry/Dry Goods**
+- [ ] Butter or olive oil
+- [ ] Almond flour or coconut flour
+- [ ] Chia seeds (optional)
+- [ ] Salt
+- [ ] Black pepper
+- [ ] Garlic powder
 
 ---
 
@@ -1646,11 +1671,11 @@ These breakfasts are nutritious, low in carbs, and fairly quick to prepare. Woul
 
 _(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
+- need cross-dish sequencing or timing when suggesting multiple dishes
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
-
 
 ---
 
@@ -1905,11 +1930,11 @@ If you'd like any recipe tailored for certain dietary needs or want more details
 
 _(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
+- 
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
-
 
 ---
 
@@ -1982,11 +2007,11 @@ Would you like me to suggest a gluten-free side dish to go with this?
 
 _(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
+- 
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
-
 
 ---
 
@@ -2042,25 +2067,25 @@ A quick and satisfying lunch that’s simple to make on your stove or oven, perf
 - Add a pinch of chili flakes or hot sauce if you like some heat.
 
 ### Shopping List
-**Meat/Seafood**  
+**Meat/Seafood**
 - [ ] 1 small chicken breast (6 oz)
 
-**Produce**  
-- [ ] 1/4 cup shredded lettuce or mixed greens  
-- [ ] 1/4 cup diced tomatoes  
-- [ ] 1/4 cup sliced cucumber  
+**Produce**
+- [ ] 1/4 cup shredded lettuce or mixed greens
+- [ ] 1/4 cup diced tomatoes
+- [ ] 1/4 cup sliced cucumber
 - [ ] 1 tsp lemon juice or small lemon (for fresh juice)
 
-**Dairy**  
+**Dairy**
 - [ ] 2 tbsp plain Greek yogurt or sour cream
 
-**Pantry/Dry Goods**  
-- [ ] 1 large tortilla wrap (8-10 inch)  
-- [ ] Olive oil  
-- [ ] Salt  
-- [ ] Black pepper  
-- [ ] Paprika (optional)  
-- [ ] Dijon mustard or honey mustard  
+**Pantry/Dry Goods**
+- [ ] 1 large tortilla wrap (8-10 inch)
+- [ ] Olive oil
+- [ ] Salt
+- [ ] Black pepper
+- [ ] Paprika (optional)
+- [ ] Dijon mustard or honey mustard
 
 Enjoy your tasty and simple homemade lunch! Would you like ideas for different types of wraps or something else?
 ```
@@ -2069,11 +2094,11 @@ Enjoy your tasty and simple homemade lunch! Would you like ideas for different t
 
 _(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
+- 
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
-
 
 ---
 
@@ -2136,11 +2161,11 @@ A quick and tasty side dish featuring tender green beans with a savory garlic an
 
 _(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
+- 
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
-
 
 ---
 
@@ -2208,11 +2233,11 @@ A warm, flavorful snack that's perfect for sharing. These cheesy garlic breadsti
 
 _(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
+- 
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
-
 
 ---
 
@@ -2294,11 +2319,11 @@ If you'd like a different cuisine or have other preferences, just let me know!
 
 _(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
+- 
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
-
 
 ---
 
@@ -2313,7 +2338,7 @@ _Trace ID: `27`_
 **Bot response:**
 
 ```text
-Here's a tasty, dairy-free lunch option that’s easy to prepare and great for serving 8 people: 
+Here's a tasty, dairy-free lunch option that’s easy to prepare and great for serving 8 people:
 
 ## Chickpea and Avocado Salad Wraps
 
@@ -2381,11 +2406,11 @@ If you have any other dietary preferences or want a hot meal instead, just let m
 
 _(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
+- 
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
-
 
 ---
 
@@ -2442,25 +2467,25 @@ This vibrant and refreshing Mediterranean quinoa salad is naturally gluten-free,
 - Add a handful of toasted pine nuts or sliced almonds for crunch.
 
 ### Shopping List
-**Produce**  
-- [ ] 1 cup quinoa (you'll find this in grains/rice aisle)  
-- [ ] 1 cup cherry tomatoes  
-- [ ] 1 cucumber  
-- [ ] 1/2 red onion  
-- [ ] 1 lemon  
-- [ ] 1 garlic clove  
-- [ ] Fresh parsley (1 bunch)  
+**Produce**
+- [ ] 1 cup quinoa (you'll find this in grains/rice aisle)
+- [ ] 1 cup cherry tomatoes
+- [ ] 1 cucumber
+- [ ] 1/2 red onion
+- [ ] 1 lemon
+- [ ] 1 garlic clove
+- [ ] Fresh parsley (1 bunch)
 - [ ] Fresh mint (1 bunch)
 
-**Dairy**  
+**Dairy**
 - [ ] Feta cheese (optional)
 
-**Pantry/Dry Goods**  
-- [ ] Kalamata olives (jarred or canned)  
-- [ ] Extra-virgin olive oil  
-- [ ] Dried oregano  
-- [ ] Salt  
-- [ ] Black pepper  
+**Pantry/Dry Goods**
+- [ ] Kalamata olives (jarred or canned)
+- [ ] Extra-virgin olive oil
+- [ ] Dried oregano
+- [ ] Salt
+- [ ] Black pepper
 
 Enjoy your fresh, naturally gluten-free salad! Let me know if you'd like me to suggest other gluten-free salad options or protein add-ons.
 ```
@@ -2469,11 +2494,11 @@ Enjoy your fresh, naturally gluten-free salad! Let me know if you'd like me to s
 
 _(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
+- 
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
-
 
 ---
 
@@ -2490,148 +2515,148 @@ _Trace ID: `29`_
 ```text
 Great! Let’s put together a balanced and delicious lunch menu for 2 people with 5 dishes. Here’s a suggestion that includes a mix of fresh, flavorful, easy-to-make dishes that complement each other nicely:
 
-## Lunch Menu for 2:  
-1. Greek Salad  
-2. Lemon Herb Chicken Skewers  
-3. Garlic Butter Rice  
-4. Roasted Veggies  
-5. Fresh Fruit with Honey Yogurt Dip  
+## Lunch Menu for 2:
+1. Greek Salad
+2. Lemon Herb Chicken Skewers
+3. Garlic Butter Rice
+4. Roasted Veggies
+5. Fresh Fruit with Honey Yogurt Dip
 
 ---
 
-## 1. Greek Salad  
+## 1. Greek Salad
 A refreshing and tangy salad with crisp veggies and salty feta.
 
 ### Ingredients
-- 1 cucumber, diced  
-- 2 medium tomatoes, chopped  
-- 1/2 red onion, thinly sliced  
-- 1/2 cup feta cheese, crumbled  
-- 10-12 Kalamata olives, pitted and halved  
-- 2 tbsp olive oil  
-- 1 tbsp red wine vinegar  
-- 1/2 tsp dried oregano  
-- Salt and black pepper, to taste  
+- 1 cucumber, diced
+- 2 medium tomatoes, chopped
+- 1/2 red onion, thinly sliced
+- 1/2 cup feta cheese, crumbled
+- 10-12 Kalamata olives, pitted and halved
+- 2 tbsp olive oil
+- 1 tbsp red wine vinegar
+- 1/2 tsp dried oregano
+- Salt and black pepper, to taste
 
 ### Instructions
-1. In a bowl, combine cucumber, tomatoes, onion, feta, and olives.  
-2. In a small bowl, whisk olive oil, red wine vinegar, oregano, salt, and pepper.  
-3. Pour dressing over salad and toss gently to combine.  
-4. Set aside or refrigerate until ready to serve.  
+1. In a bowl, combine cucumber, tomatoes, onion, feta, and olives.
+2. In a small bowl, whisk olive oil, red wine vinegar, oregano, salt, and pepper.
+3. Pour dressing over salad and toss gently to combine.
+4. Set aside or refrigerate until ready to serve.
 
 ---
 
-## 2. Lemon Herb Chicken Skewers  
+## 2. Lemon Herb Chicken Skewers
 Juicy, marinated chicken grilled or pan-cooked with bright lemon and herbs.
 
 ### Ingredients
-- 2 boneless, skinless chicken breasts, cut into 1-inch cubes  
-- 2 tbsp olive oil  
-- Juice of 1 lemon  
-- 2 garlic cloves, minced  
-- 1 tsp dried oregano (or fresh if available)  
-- Salt and pepper, to taste  
-- Wooden skewers (soaked in water for 30 minutes)  
+- 2 boneless, skinless chicken breasts, cut into 1-inch cubes
+- 2 tbsp olive oil
+- Juice of 1 lemon
+- 2 garlic cloves, minced
+- 1 tsp dried oregano (or fresh if available)
+- Salt and pepper, to taste
+- Wooden skewers (soaked in water for 30 minutes)
 
 ### Instructions
-1. In a bowl, mix olive oil, lemon juice, garlic, oregano, salt, and pepper.  
-2. Add chicken cubes and marinate for at least 15 minutes (can be longer if time allows).  
-3. Thread chicken onto skewers.  
-4. Heat a grill pan or regular skillet over medium heat. Cook skewers 4-5 min per side until cooked through.  
-5. Serve hot.  
+1. In a bowl, mix olive oil, lemon juice, garlic, oregano, salt, and pepper.
+2. Add chicken cubes and marinate for at least 15 minutes (can be longer if time allows).
+3. Thread chicken onto skewers.
+4. Heat a grill pan or regular skillet over medium heat. Cook skewers 4-5 min per side until cooked through.
+5. Serve hot.
 
 ---
 
-## 3. Garlic Butter Rice  
+## 3. Garlic Butter Rice
 Fluffy rice with a rich garlic butter flavor.
 
 ### Ingredients
-- 1 cup long-grain white rice  
-- 2 cups water or chicken broth  
-- 2 tbsp butter  
-- 2 garlic cloves, minced  
-- Salt, to taste  
+- 1 cup long-grain white rice
+- 2 cups water or chicken broth
+- 2 tbsp butter
+- 2 garlic cloves, minced
+- Salt, to taste
 
 ### Instructions
-1. Rinse rice under cold water until water runs clear.  
-2. In a pot, melt butter over medium. Add garlic and sauté 1 minute until fragrant.  
-3. Add rice and stir to coat with butter.  
-4. Pour water or broth and add salt, bring to a boil.  
-5. Reduce heat to low, cover, and simmer 15-18 minutes until rice is tender and liquid absorbed.  
-6. Fluff with fork before serving.  
+1. Rinse rice under cold water until water runs clear.
+2. In a pot, melt butter over medium. Add garlic and sauté 1 minute until fragrant.
+3. Add rice and stir to coat with butter.
+4. Pour water or broth and add salt, bring to a boil.
+5. Reduce heat to low, cover, and simmer 15-18 minutes until rice is tender and liquid absorbed.
+6. Fluff with fork before serving.
 
 ---
 
-## 4. Roasted Veggies  
+## 4. Roasted Veggies
 Simple, caramelized veggies with herbs.
 
 ### Ingredients
-- 1 cup baby carrots  
-- 1 red bell pepper, sliced  
-- 1 zucchini, sliced  
-- 1 tbsp olive oil  
-- 1/2 tsp dried thyme or rosemary  
-- Salt and pepper, to taste  
+- 1 cup baby carrots
+- 1 red bell pepper, sliced
+- 1 zucchini, sliced
+- 1 tbsp olive oil
+- 1/2 tsp dried thyme or rosemary
+- Salt and pepper, to taste
 
 ### Instructions
-1. Preheat oven to 425°F (220°C).  
-2. Toss veggies with olive oil, herbs, salt, and pepper on a baking sheet.  
-3. Roast for 20-25 minutes, stirring halfway, until tender and slightly caramelized.  
+1. Preheat oven to 425°F (220°C).
+2. Toss veggies with olive oil, herbs, salt, and pepper on a baking sheet.
+3. Roast for 20-25 minutes, stirring halfway, until tender and slightly caramelized.
 
 ---
 
-## 5. Fresh Fruit with Honey Yogurt Dip  
+## 5. Fresh Fruit with Honey Yogurt Dip
 A light, sweet finish with natural yogurt and honey.
 
 ### Ingredients
-- 1 cup fresh fruit (such as apple slices, berries, or grapes)  
-- 1/2 cup plain Greek yogurt  
-- 1 tbsp honey  
-- 1/4 tsp cinnamon (optional)  
+- 1 cup fresh fruit (such as apple slices, berries, or grapes)
+- 1/2 cup plain Greek yogurt
+- 1 tbsp honey
+- 1/4 tsp cinnamon (optional)
 
 ### Instructions
-1. Combine yogurt, honey, and cinnamon in a small bowl.  
-2. Serve fruit with yogurt dip on the side.  
+1. Combine yogurt, honey, and cinnamon in a small bowl.
+2. Serve fruit with yogurt dip on the side.
 
 ---
 
-### Tips  
-- Soaking wooden skewers prevents burning on the grill/pan.  
-- You can swap chicken with tofu or shrimp for variation.  
+### Tips
+- Soaking wooden skewers prevents burning on the grill/pan.
+- You can swap chicken with tofu or shrimp for variation.
 - Prep veggies and marinate chicken ahead to save time.
 
-### Shopping List  
-**Produce**  
-- [ ] 1 cucumber  
-- [ ] 2 tomatoes  
-- [ ] 1/2 red onion  
-- [ ] 1 lemon  
-- [ ] 2 garlic cloves (plus 2 extra for rice)  
-- [ ] 1 cup baby carrots  
-- [ ] 1 red bell pepper  
-- [ ] 1 zucchini  
+### Shopping List
+**Produce**
+- [ ] 1 cucumber
+- [ ] 2 tomatoes
+- [ ] 1/2 red onion
+- [ ] 1 lemon
+- [ ] 2 garlic cloves (plus 2 extra for rice)
+- [ ] 1 cup baby carrots
+- [ ] 1 red bell pepper
+- [ ] 1 zucchini
 - [ ] Fresh fruit (apple, berries, or grapes)
 
-**Meat/Seafood**  
-- [ ] 2 boneless, skinless chicken breasts  
+**Meat/Seafood**
+- [ ] 2 boneless, skinless chicken breasts
 
-**Dairy**  
-- [ ] 1/2 cup feta cheese  
-- [ ] 2 tbsp butter  
-- [ ] 1/2 cup plain Greek yogurt  
+**Dairy**
+- [ ] 1/2 cup feta cheese
+- [ ] 2 tbsp butter
+- [ ] 1/2 cup plain Greek yogurt
 
-**Pantry/Dry Goods**  
-- [ ] Olive oil  
-- [ ] Red wine vinegar  
-- [ ] Dried oregano  
-- [ ] Dried thyme or rosemary  
-- [ ] Honey  
-- [ ] Salt  
-- [ ] Black pepper  
-- [ ] Long-grain white rice  
+**Pantry/Dry Goods**
+- [ ] Olive oil
+- [ ] Red wine vinegar
+- [ ] Dried oregano
+- [ ] Dried thyme or rosemary
+- [ ] Honey
+- [ ] Salt
+- [ ] Black pepper
+- [ ] Long-grain white rice
 
-**Other**  
-- [ ] Wooden skewers (if you don’t have them)  
+**Other**
+- [ ] Wooden skewers (if you don’t have them)
 
 ---
 
@@ -2642,11 +2667,11 @@ Would you like me to customize this for any dietary preferences or suggest quick
 
 _(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
+- 
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
-
 
 ---
 
@@ -2723,11 +2748,11 @@ Enjoy your fresh and quick dinner salad! Let me know if you'd like a protein-ric
 
 _(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
+- 
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
-
 
 ---
 
@@ -2800,11 +2825,11 @@ Let me know if you'd like keto-friendly side dish ideas or anything else!
 
 _(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
+- 
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
-
 
 ---
 
@@ -2869,11 +2894,11 @@ A fresh, vibrant appetizer that combines juicy tomatoes, creamy mozzarella, and 
 
 _(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
+- 
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
-
 
 ---
 
@@ -3021,39 +3046,39 @@ Light, protein-packed, and dairy-free lettuce wraps loaded with creamy avocado a
 
 ### Shopping List
 
-**Produce**  
-- [ ] 1 celery stalk  
-- [ ] 1 small carrot (+ 1/2 cup shredded carrot)  
-- [ ] 1 garlic bulb (need 3 cloves total)  
-- [ ] 1 small cucumber  
-- [ ] 1 avocado  
-- [ ] 1 lemon  
-- [ ] 1 onion  
-- [ ] 1 large sweet potato  
-- [ ] 1/2 red bell pepper  
-- [ ] 1 cup cherry tomatoes  
-- [ ] fresh cilantro (small bunch)  
-- [ ] ginger (small piece)  
+**Produce**
+- [ ] 1 celery stalk
+- [ ] 1 small carrot (+ 1/2 cup shredded carrot)
+- [ ] 1 garlic bulb (need 3 cloves total)
+- [ ] 1 small cucumber
+- [ ] 1 avocado
+- [ ] 1 lemon
+- [ ] 1 onion
+- [ ] 1 large sweet potato
+- [ ] 1/2 red bell pepper
+- [ ] 1 cup cherry tomatoes
+- [ ] fresh cilantro (small bunch)
+- [ ] ginger (small piece)
 - [ ] 8 large lettuce leaves (e.g., Romaine)
 
-**Meat/Seafood**  
+**Meat/Seafood**
 - [ ] 8 oz sliced turkey breast (or cooked turkey)
 
-**Pantry/Dry Goods**  
-- [ ] 1 can (15 oz) chickpeas (2 cans total)  
-- [ ] 1 can (14 oz) diced tomatoes  
-- [ ] 1 cup cooked quinoa (or dry quinoa to cook)  
-- [ ] 1 cup cooked lentils (or dry lentils to cook)  
-- [ ] 1 cup corn kernels (fresh or canned)  
-- [ ] tahini  
-- [ ] olive oil  
-- [ ] apple cider vinegar  
-- [ ] Dijon mustard  
-- [ ] curry powder  
-- [ ] salt  
-- [ ] black pepper  
+**Pantry/Dry Goods**
+- [ ] 1 can (15 oz) chickpeas (2 cans total)
+- [ ] 1 can (14 oz) diced tomatoes
+- [ ] 1 cup cooked quinoa (or dry quinoa to cook)
+- [ ] 1 cup cooked lentils (or dry lentils to cook)
+- [ ] 1 cup corn kernels (fresh or canned)
+- [ ] tahini
+- [ ] olive oil
+- [ ] apple cider vinegar
+- [ ] Dijon mustard
+- [ ] curry powder
+- [ ] salt
+- [ ] black pepper
 
-**Other**  
+**Other**
 - [ ] coconut oil (or extra olive oil)
 
 ---
@@ -3065,11 +3090,11 @@ If you have any dietary preferences or want recipes tailored for specific needs 
 
 _(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
+- 
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
-
 
 ---
 
@@ -3143,11 +3168,11 @@ This dessert is easy and elegant, perfect for your pescatarian diet without need
 
 _(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
+- 
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
-
 
 ---
 
@@ -3169,11 +3194,11 @@ Great! To tailor a lunch main dish recipe for you, do you have any dietary prefe
 
 _(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
+- 
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
-
 
 ---
 
@@ -3195,11 +3220,11 @@ Great! To tailor a snack main recipe perfectly, could you please let me know if 
 
 _(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
+- 
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
-
 
 ---
 
@@ -3307,11 +3332,11 @@ Enjoy your tasty and easy snacks! Let me know if you want them adjusted for diet
 
 _(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
+- 
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
-
 
 ---
 
@@ -3386,11 +3411,11 @@ Let me know if you want other keto breakfast ideas!
 
 _(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
+- 
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
-
 
 ---
 
@@ -3456,11 +3481,11 @@ Enjoy your tasty and healthy snack! Would you like suggestions for drinks or dip
 
 _(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
+- 
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
-
 
 ---
 
@@ -3533,11 +3558,11 @@ If you want, I can also suggest some quick microwave oatmeal or breakfast sandwi
 
 _(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
+- 
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
-
 
 ---
 
@@ -3640,33 +3665,33 @@ A colorful stir-fry that’s ready in under 20 minutes and very customizable.
 
 ### Shopping List
 
-**Produce**  
-- [ ] Romaine lettuce (small head or bagged)  
-- [ ] Cherry tomatoes  
-- [ ] Cucumber  
-- [ ] Red onion  
-- [ ] Garlic clove  
-- [ ] Mixed vegetables for stir-fry (e.g., bell pepper, broccoli, carrot, snap peas)  
+**Produce**
+- [ ] Romaine lettuce (small head or bagged)
+- [ ] Cherry tomatoes
+- [ ] Cucumber
+- [ ] Red onion
+- [ ] Garlic clove
+- [ ] Mixed vegetables for stir-fry (e.g., bell pepper, broccoli, carrot, snap peas)
 
-**Meat/Seafood**  
-- [ ] Cooked chicken breast or rotisserie chicken (approx. 4 oz)  
+**Meat/Seafood**
+- [ ] Cooked chicken breast or rotisserie chicken (approx. 4 oz)
 
-**Dairy**  
-- [ ] Grated Parmesan cheese  
-- [ ] Feta cheese  
+**Dairy**
+- [ ] Grated Parmesan cheese
+- [ ] Feta cheese
 
-**Pantry/Dry Goods**  
-- [ ] Flour tortilla (8-inch)  
-- [ ] Canned chickpeas (1 can)  
-- [ ] Olive oil  
-- [ ] Caesar dressing  
-- [ ] Soy sauce  
-- [ ] Vegetable oil  
-- [ ] Sesame oil (optional)  
-- [ ] Lemon juice (or fresh lemon)  
-- [ ] Dried oregano  
-- [ ] Salt  
-- [ ] Black pepper  
+**Pantry/Dry Goods**
+- [ ] Flour tortilla (8-inch)
+- [ ] Canned chickpeas (1 can)
+- [ ] Olive oil
+- [ ] Caesar dressing
+- [ ] Soy sauce
+- [ ] Vegetable oil
+- [ ] Sesame oil (optional)
+- [ ] Lemon juice (or fresh lemon)
+- [ ] Dried oregano
+- [ ] Salt
+- [ ] Black pepper
 
 ---
 
@@ -3677,11 +3702,11 @@ If you'd like, I can help you adjust any dish for dietary preferences or add a d
 
 _(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
+- 
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
-
 
 ---
 
@@ -3764,11 +3789,11 @@ If you'd like recipes with different proteins or dietary tweaks, just let me kno
 
 _(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
+- 
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
-
 
 ---
 
@@ -3848,11 +3873,11 @@ Let me know if you want a plant-based dairy-free main or have other preferences!
 
 _(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
+- 
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
-
 
 ---
 
@@ -3876,11 +3901,11 @@ Do you have any dietary preferences or restrictions I should consider? Otherwise
 
 _(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
+- 
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
-
 
 ---
 
@@ -3943,11 +3968,11 @@ Enjoy your quick, homemade snack! Let me know if you want something savory or a 
 
 _(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
+- 
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
-
 
 ---
 
@@ -4022,11 +4047,11 @@ If you want a vegetarian appetizer, just let me know! This recipe is beginner-fr
 
 _(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
+- 
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
-
 
 ---
 
@@ -4048,11 +4073,11 @@ Great! To tailor the recipe perfectly for you, do you have any dietary preferenc
 
 _(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
+- 
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
-
 
 ---
 
@@ -4108,7 +4133,7 @@ A quick and easy breakfast recipe that you can make entirely in the microwave—
 - [ ] 1 cup shredded cheese (optional)
 - [ ] Butter or olive oil
 
-**Produce**  
+**Produce**
 - [ ] Optional: 1 cup diced tomatoes, bell peppers, spinach, or other preferred veggies
 
 **Pantry/Dry Goods**
@@ -4124,11 +4149,11 @@ If you want suggestions for a microwave-friendly side or drink to pair with this
 
 _(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
+- 
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
-
 
 ---
 
@@ -4203,11 +4228,11 @@ Enjoy your elegant and flavorful sous vide shrimp appetizer! Let me know if you 
 
 _(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
+- 
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
-
 
 ---
 
@@ -4289,10 +4314,10 @@ This Mediterranean salad is fresh, colorful, and full of flavor, making it perfe
 
 _(single-turn — note ALL failures you see, not just the first. Complete sentences, quote the offending text. Specific + app-specific; no generic labels. Uncategorized.)_
 
+- 
 
 **Acceptable? (optional):**
 
 _(yes / no — force a side even if borderline)_
-
 
 ---
