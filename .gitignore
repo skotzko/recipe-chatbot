@@ -206,3 +206,5 @@ Desktop.ini
 .vscode/*
 !.vscode/settings.json
 !.vscode/extensions.json
+# HW3 scratch variance runs
+homeworks/hw3/dev_preds_run*.jsonl
