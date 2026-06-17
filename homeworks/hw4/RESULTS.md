@@ -11,8 +11,8 @@ Option 3: used the provided 200 synthetic queries + 200 processed recipes
 | Recall@5 | 0.730 |
 | MRR | 0.632 |
 
-In the README's expected range, but **below the course's 80-90% recall bar** —
-not yet ready for the generation stage.
+In the README's expected range, but **below the course's 80-90% recall bar**.
+Not yet ready for the generation stage.
 
 ## 2. Why it fails
 BM25 matches words, not meaning. So a query only finds its recipe when the two
@@ -61,10 +61,10 @@ know which ones got worse. Same trap as tuning on the test set, wearing a costum
 
 ## 4. Caveats
 - Threshold (gap≥0.95) was chosen by reading the full curve, which includes the
-  answer — a real deployment would tune it on a held-out set. The mechanism (blind
-  gate) is honest; the exact threshold is mildly optimistic.
-- Data artifacts hurt retrieval (e.g. "325°F" mangled to "325of" in cleaning) —
-  a process/data fix, not a tools fix.
+  answer. A real deployment would tune it on a held-out set. The mechanism (blind
+  gate) is honest. The exact threshold is mildly optimistic.
+- Data artifacts hurt retrieval. "325°F" got mangled to "325of" in cleaning, which
+  breaks the lexical match. A process/data fix, not a tools fix.
 
 ## Files
 - `run_retrieval_eval.py` — BM25 index + Recall@k/MRR
