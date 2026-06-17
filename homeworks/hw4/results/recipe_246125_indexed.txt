@@ -1,0 +1,63 @@
+=== RECIPE 246125: amish friendship bread ===
+
+This is the EXACT full_text string BM25 indexed for this recipe.
+(name + description + ingredients + steps, concatenated)
+======================================================================
+
+amish friendship bread i don't know if this is truly amish or not. your mummy got the starter for me from the alpaca lady that goes to the vet's office that she works for. it is the recipe that all four of you go a little buggy for and that robert, darling mischief that he is at 3 (almost 4), waited till your nanny and i wern't watching and stole a huge muffin (recipe also makes almost 18 huge muffins if you can find the pan) and then ran out the front door with only to be busted by your mummy as he was cheerfully trying to stuff the whole thing in his mouth at once. milk all-purpose flour sugar active dry yeast sourdough starter eggs oil cinnamon vanilla baking powder baking soda salt flour instant vanilla pudding hopefully i will be able to give you each your first lot of sweet sourdough starter for amish bread as well as sourdough dough starter for sourdough bread , but just in case something happens where i can't for whatever reason , amish bread starter is made with 1 1 / 2 cup each all purpose flour , sugar and milk plus 1 package of dry yeast lumps aren't really an issue because they break down as the starter ferments stir daily and feed every 3-4 days you will probably want to let it have a couple of feedings before you make your first batch of amish bread so you have enough starter you can feed it as much as you like as long as it's all equal ammounts of milk , flour and sugar the more often you bake , the more you feed it because you need 3 cups of starter per recipe with enough left over to feed and get going again i normally feed anywhere between 1 / 2 cup to 1 1 / 2 cup each depending on how much i am baking i keep my starter on the counter in a plastic half gallon screw top jar i got from the dollar store that i drilled a little hole in the top of you must have some way to let out the gasses that build up durring fermentation or it will quite literally explode and that makes one horrible mess trust me you don't want to be cleaning that up preheat oven to 325of grease 2 large loaf pans and mix cinnamon and sugar for dusting in a dish till evenly distributed dust the greased pans with half of this mixture all amish bread batter ingredients get mixed together you can use a wooden spoon to do it by hand if you really want to however i don't recomend it as it is a huge pain in the part you sit down on when you can grab a hand mixer and have it done in something like 3 minutes just mix till it's a nice smooth batter pour the batter evenly into the two pans and sprinkle the remaining sugar mixture over the top bake 1 hour cool until bread loosens from the pan evenly turn out onto a serving dish serve warm or cold if it ever got to cold it was a surprise and ment that i was standing guard over it and threating pain of death if anyone touched it till i was ready you can eat it just as it is , smeared with best butter like nanny does or use it as the base for mock triffle general warnings: do not use any type of metal spoon or bowl for daily mixing do not refrigerate as fermentation gasses build up in the container , let it out or the bag will go boom ! it is normal for the batter to rise , bubble , ferment and smell like good beer or alcohol smelling like nasty feet is bad and means that your starter died and you need to toss it an start again 60-minutes-or-less time-to-make course cuisine preparation occasion north-american breads american easy gifts amish-mennonite northeastern-united-states yeast quick-breads
+
+======================================================================
+STRUCTURED FIELDS (for reference):
+
+id: 246125
+name: amish friendship bread
+minutes: 60
+n_ingredients: 14
+n_steps: 29
+
+ingredients:
+  - milk
+  - all-purpose flour
+  - sugar
+  - active dry yeast
+  - sourdough starter
+  - eggs
+  - oil
+  - cinnamon
+  - vanilla
+  - baking powder
+  - baking soda
+  - salt
+  - flour
+  - instant vanilla pudding
+
+steps:
+  1. hopefully i will be able to give you each your first lot of sweet sourdough starter for amish bread as well as sourdough dough starter for sourdough bread , but just in case something happens where i can't for whatever reason , amish bread starter is made with 1 1 / 2 cup each all purpose flour , sugar and milk plus 1 package of dry yeast
+  2. lumps aren't really an issue because they break down as the starter ferments
+  3. stir daily and feed every 3-4 days
+  4. you will probably want to let it have a couple of feedings before you make your first batch of amish bread so you have enough starter
+  5. you can feed it as much as you like as long as it's all equal ammounts of milk , flour and sugar
+  6. the more often you bake , the more you feed it because you need 3 cups of starter per recipe with enough left over to feed and get going again
+  7. i normally feed anywhere between 1 / 2 cup to 1 1 / 2 cup each depending on how much i am baking
+  8. i keep my starter on the counter in a plastic half gallon screw top jar i got from the dollar store that i drilled a little hole in the top of
+  9. you must have some way to let out the gasses that build up durring fermentation or it will quite literally explode and that makes one horrible mess
+  10. trust me you don't want to be cleaning that up
+  11. preheat oven to 325of
+  12. grease 2 large loaf pans and mix cinnamon and sugar for dusting in a dish till evenly distributed
+  13. dust the greased pans with half of this mixture
+  14. all amish bread batter ingredients get mixed together
+  15. you can use a wooden spoon to do it by hand if you really want to however i don't recomend it as it is a huge pain in the part you sit down on when you can grab a hand mixer and have it done in something like 3 minutes
+  16. just mix till it's a nice smooth batter
+  17. pour the batter evenly into the two pans and sprinkle the remaining sugar mixture over the top
+  18. bake 1 hour
+  19. cool until bread loosens from the pan evenly
+  20. turn out onto a serving dish
+  21. serve warm or cold
+  22. if it ever got to cold it was a surprise and ment that i was standing guard over it and threating pain of death if anyone touched it till i was ready
+  23. you can eat it just as it is , smeared with best butter like nanny does or use it as the base for mock triffle
+  24. general warnings:
+  25. do not use any type of metal spoon or bowl for daily mixing
+  26. do not refrigerate
+  27. as fermentation gasses build up in the container , let it out or the bag will go boom !
+  28. it is normal for the batter to rise , bubble , ferment and smell like good beer or alcohol
+  29. smelling like nasty feet is bad and means that your starter died and you need to toss it an start again
