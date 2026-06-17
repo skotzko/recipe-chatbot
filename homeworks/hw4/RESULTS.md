@@ -14,19 +14,23 @@ Option 3: used the provided 200 synthetic queries + 200 processed recipes
 In the README's expected range, but **below the course's 80-90% recall bar** —
 not yet ready for the generation stage.
 
-## 2. Why it fails (error analysis on failures)
-BM25 is pure lexical matching. It succeeds when the query shares a **distinctive
-(high-IDF) token** with the recipe's indexed text (name, ingredients, OR steps).
-It fails when the query's only overlap is a **generic category word**
-('cake', 'bread', 'soup', 'salmon') common to many recipes — no rare term to
-single out the right one, so the correct recipe drowns among same-category recipes.
+## 2. Why it fails
+BM25 matches words, not meaning. So a query only finds its recipe when the two
+share a *distinctive* word, something rare enough to point at one recipe and not
+the other 199. When the only shared word is generic, the recipe drowns. Ask "what
+temperature for this cake" and BM25 sees fifteen cakes that all match "cake"
+equally well, and the right one is just one of them.
 
-Confirmed three ways:
-- Worst failures all shared exactly ONE generic word with their recipe.
-- Queries sharing ZERO recipe-name words beat those sharing ONE generic word
-  (76% vs 63%) — zero forces BM25 onto rarer ingredient/step tokens that discriminate.
-- By query type: Temperature (most generic phrasing) worst (R@5 0.65),
-  Technique (most specific) best (0.79).
+The failures bear this out from three angles. The worst-buried recipes each shared
+exactly one generic word with their query ("salmon", "soup", "cake"). Stranger:
+queries that shared *zero* recipe-name words did better than ones sharing a single
+generic word (76% vs 63%), because zero forces BM25 onto rarer ingredient and step
+words that actually discriminate, while one generic word is a confident wrong
+signal. And by type, the most generic questions lose. "What temp do I bake this"
+is nearly the same sentence for every baked good, so Temperature queries score
+worst (R@5 0.65). Technique questions name a specific method on a specific dish, so
+they score best (0.79). It's the same story every way you cut it: generic
+vocabulary, generic results.
 
 ## 3. Improvement: query expansion, then made safe
 | strategy | R@5 | regressions | expanded |
@@ -35,16 +39,25 @@ Confirmed three ways:
 | blanket expansion (all queries) | 0.87 | 34 | 200 |
 | **selective (BM25-confidence gated)** | **0.85** | **16** | 83 |
 
-A blind LLM rewrite agent (no access to the target recipe) that injects plausible
-recipe vocabulary lifted Recall@5 0.73 → 0.87 and rescued 65% of failures —
-confirming the distinctive-token diagnosis. But blanket expansion also *hurt* 34
-queries (30 already-successful), because adding vocabulary indiscriminately dilutes
-queries that already had a distinctive anchor.
+The fix worked, then bit back. An LLM rewrite agent that pads the query with
+plausible recipe vocabulary pushed Recall@5 from 0.73 to 0.87 and dragged 65% of
+the buried recipes back into the top 5. Good. But it also wrecked 34 queries, and
+30 of those were ones BM25 already had right. The reason is the same mechanism
+running in reverse. Expansion dumps vocabulary on every query, so a query that
+already owned a distinctive word now also carries five generic ones, and the
+generic ones pull in the wrong recipes. The intervention that rescues the
+vocabulary-poor queries is the same one that poisons the vocabulary-rich ones.
 
-Gating expansion on **BM25's own confidence** (flat top-scores → expand; clear
-winner → leave alone — a signal available WITHOUT the answer key) kept ~90% of the
-recall gain at half the regressions and ~40% of the cost. Decided blind, so it
-transfers to live traffic.
+So the fix needed a fix. Don't expand everything. Expand only the queries BM25 is
+unsure about, and you can tell which those are without ever seeing the answer.
+When BM25 has a real match, the top score towers over the rest. When it's lost,
+the top scores bunch up flat. Gate on that gap, expand only the flat ones, and you
+get Recall@5 0.85 with 16 regressions instead of 34, touching 83 queries instead
+of 200. Roughly all of the upside, half the damage, 40% of the cost. The gate
+reads BM25's own confidence, not the answer key, so it survives contact with real
+traffic. That last part matters more than the number. "Just undo the queries that
+got worse" would score higher and mean nothing, because in production you don't
+know which ones got worse. Same trap as tuning on the test set, wearing a costume.
 
 ## 4. Caveats
 - Threshold (gap≥0.95) was chosen by reading the full curve, which includes the
