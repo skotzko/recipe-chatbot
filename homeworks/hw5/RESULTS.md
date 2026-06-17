@@ -128,7 +128,35 @@ should retry with relaxed constraints or fall back to web search, not silently
 redirect. And going forward, instrument a goal-completion eval so a graceful failure
 trips an alarm instead of sliding by on a friendly tone.
 
+## 7. The goal-completion eval, sketched
+
+`analysis/goal_completion_eval.py` is a reference design for that eval. Two layers,
+cheapest first.
+
+Layer 1 is a code check, free and deterministic: did the trace reach DeliverResponse
+with a recipe? If it died at or before GetRecipes, no recipe ever reached the user,
+auto-fail. No LLM, no user signal. On these 96 traces it returns a goal-completion
+rate of **0/96**. Every trace failed to deliver, including the pleasant ones. Graded
+on sentiment this agent looks fine. Graded on the job, it's at zero. Same traces,
+opposite verdict.
+
+Layer 2 is an LLM judge, and it only runs on traces that pass Layer 1, so no judge
+call is wasted on a trace code already condemned. It reads the delivered recipe
+against the request and rules whether intent was met. It's the HW3 dietary judge
+re-aimed, and like that judge it has to be validated on hand-labeled traces (TPR/TNR)
+before its number means anything. I shipped it as a wired stub, unvalidated, on
+purpose.
+
+The load-bearing decision is in the goal extraction: it anchors on the **original**
+request, the first user turn, and the judge is told to ignore later goalpost-moving.
+That's the whole defense against graceful failure. Anchor on the latest turn instead
+and the agent's smooth redirect scores as success, because the redirected question
+did get resolved. Original-intent anchoring is the one line that makes the eval work.
+
 ## Files
 - `analysis/transition_heatmaps.py` — builds the matrix, renders both PNGs
+- `analysis/goal_completion_eval.py` — two-layer goal-completion eval (code + LLM judge)
 - `results/failure_transition_heatmap.png` — bare matrix
 - `results/failure_transition_heatmap_margins.png` — matrix + marginal totals
+- `results/getrecipes_failures.html` — self-contained viewer for the 32 GetRecipes failures
+- `results/getrecipes_failures.jsonl` — those 32 traces, extracted
